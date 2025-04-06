@@ -13,4 +13,4 @@ La presencia de estos metales en las fuentes de agua, exponen a los pobladores d
 1.Ruiz Molleda JC, Osores Plenge F. ¿Cómo afecta a las comunidades nativas del Marañón la presencia de metales pesados? Lima: Justicia Viva - IDL; 2017. Disponible en: https://www.justiciaviva.org.pe/new/wp-content/uploads/2017/05/C%C3%B3mo-afecta-a-las-comunidades-nativas-del-Mara%C3%B1%C3%B3n-la-presencia-de-metales-pesados.-18-05-2017-Final.pdf?utm_source=chatgpt.com
 
 
-2. **Bravo APA**, **Navarro PC**, **Flores JS**, **Sánchez EDT**, **Contreras J de JL**, **Lara DL del CD**. *Intoxicación con metales pesados: una revisión de la literatura.* **Cienc Front.** 10 de octubre de 2024; 2(1): 16-28. Disponible en:   https://www.researchgate.net/publication/384635624_Intoxicacion_con_metales_pesados_una_revision_de_la_literatura
+2. **Bravo APA**, **Navarro PC**, **Flores JS**, **Sánchez EDT**, **Contreras J de JL**, **Lara DL del CD**. *Intoxicación con metales pesados: una revisión de la literatura.* **Cienc Front.** 10 de octubre de 2024; 2(1): 16-28. Disponible en:  https://ojscyf.uag.mx/index.php/ciencia_y_frontera/article/view/301/137
