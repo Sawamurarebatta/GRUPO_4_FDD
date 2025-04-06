@@ -10,5 +10,5 @@ La presencia de estos metales en las fuentes de agua, exponen a los pobladores d
 
 ## Referencias
 
-1. **Diagnóstico de la calidad de Agua para consumo Humano 2017** [Internet]. [citado 5 de abril de 2025]. Disponible en: [https://www.gob.pe/institucion/regionmoquegua-diresa/informes-publicaciones/2487403-diagnostico-de-la-calidad-de-agua-para-consumo-humano-2017](https://www.gob.pe/institucion/regionmoquegua-diresa/informes-publicaciones/2487403-diagnostico-de-la-calidad-de-agua-para-consumo-humano-2017)
+1.Ruiz Molleda JC, Osores Plenge F. ¿Cómo afecta a las comunidades nativas del Marañón la presencia de metales pesados? Lima: Justicia Viva - IDL; 2017. Disponible en: https://www.justiciaviva.org.pe/new/wp-content/uploads/2017/05/C%C3%B3mo-afecta-a-las-comunidades-nativas-del-Mara%C3%B3n-la-presencia-de-metales-pesados.-18-05-2017-Final.pdf
 2. **Bravo APA**, **Navarro PC**, **Flores JS**, **Sánchez EDT**, **Contreras J de JL**, **Lara DL del CD**. *Intoxicación con metales pesados: una revisión de la literatura.* **Cienc Front.** 10 de octubre de 2024; 2(1): 16-28.
