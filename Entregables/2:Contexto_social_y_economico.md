@@ -27,7 +27,8 @@
 
  
 <img src="IMAGENES/derrames.png">
-<div>[IMAGENES/TOTAL.png]</div>
+<img src="TOTAL.png">
+ 
 
 <p>Estos derrames no solo generan pérdidas ambientales, sino también económicas, afectando a los agricultores, pescadores y comunidades que dependen del agua para sus actividades productivas. Pese a las sanciones impuestas, Petroperú ha incumplido sistemáticamente sus compromisos de reparación(8).</p>
 
