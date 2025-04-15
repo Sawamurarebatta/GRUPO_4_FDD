@@ -16,11 +16,11 @@ El norte del Perú es una de las zonas más importantes y atractivas para la pro
 
 Es importante señalar que la minería representa un pilar fundamental para la economía peruana. El país alberga algunas de las mayores reservas globales de metales como la plata, el cobre, el zinc y el oro. Según el Ministerio de Energía y Minas en el año 2023, esta riqueza ha permitido que, durante la última década, el sector minero haya contribuido con aproximadamente el 9.46% del Producto Bruto Interno (PBI), generando cerca del 65.1% del total de exportaciones [^2]. Esta dualidad entre los beneficios económicos y los impactos negativos socioambientales refleja la complejidad de la minería en el Perú.
 
-![Gráfica del MINEM 2023](minem_2023.png)
+![Gráfica del MINEM 2023](../IMAGENES/minem%202023.png)
 
 La minería ilegal en la Amazonía peruana ha vertido al ambiente grandes cantidades de mercurio, siendo una de las principales fuentes de contaminación de los ríos amazónicos, incluyendo el Marañón [^3]. Estudios indican que se han utilizado más de 3,000 toneladas de mercurio en la minería artesanal e informal en la región en los últimos 20 años, lo que ha generado una acumulación crítica de este metal en los ecosistemas acuáticos [^4]. La concentración de mercurio afecta directamente la calidad del agua, la fauna y la salud de las comunidades ribereñas, que dependen del río para subsistir.
 
-![Mapa de zonas de minería ilegal - ACCA](ACCA.png)
+![Mapa de zonas de minería ilegal - ACCA](../IMAGENES/ACCA.png)
 
 ### Pasivos ambientales sin remediación
 
@@ -32,8 +32,8 @@ Estos pasivos contienen relaves con altos niveles de metales tóxicos, que se fi
 
 Además de la minería, el Oleoducto Norperuano, operado por Petroperú, ha contribuido a la contaminación de la cuenca. Entre los años 1997 y 2019 se han registrado más de 60 derrames en zonas que impactan directamente al río Marañón, liberando metales como cadmio, plomo y arsénico [^7].
 
-![Derrames de petróleo](derrames.png)  
-![Resumen total de derrames](TOTAL.png)
+![Derrames de petróleo](../IMAGENES/derrames.png)  
+![Resumen total de derrames](../IMAGENES/TOTAL.png)
 
 Estos derrames no solo generan pérdidas ambientales, sino también económicas, afectando a los agricultores, pescadores y comunidades que dependen del agua para sus actividades productivas. Pese a las sanciones impuestas, Petroperú ha incumplido sistemáticamente sus compromisos de reparación [^8].
 
