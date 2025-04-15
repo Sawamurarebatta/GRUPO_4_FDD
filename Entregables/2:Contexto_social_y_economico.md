@@ -50,3 +50,5 @@
 <p>7. Google Docs [Internet]. [citado 13 de abril de 2025]. Informe SAIP IDL.pdf. Disponible en: https://drive.google.com/file/d/1owDSRASTwZCmflAXSmwvO51c4wGMOXzn/view?usp=embed_facebook</p>
 
 <p>8. yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/</p>
+
+<a href="README.md">Enlace al README de Entregables</a>
