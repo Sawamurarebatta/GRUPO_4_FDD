@@ -25,7 +25,8 @@
 <h2>El petróleo y sus consecuencias</h2>
 <p>Además de la minería, el Oleoducto Norperuano, operado por Petroperú, ha contribuido a la contaminación de la cuenca. Entre los años 1997 y 2019 se han registrado más de 60 derrames en zonas que impactan directamente al río Marañón, liberando metales como cadmio, plomo y arsénico(7).</p>
 
-<div>[IMAGENES/derrames.png]</div>
+ 
+<img src="IMAGENES/derrames.png">
 <div>[IMAGENES/TOTAL.png]</div>
 
 <p>Estos derrames no solo generan pérdidas ambientales, sino también económicas, afectando a los agricultores, pescadores y comunidades que dependen del agua para sus actividades productivas. Pese a las sanciones impuestas, Petroperú ha incumplido sistemáticamente sus compromisos de reparación(8).</p>
