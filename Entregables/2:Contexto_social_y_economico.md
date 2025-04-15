@@ -18,7 +18,7 @@ Es importante señalar que la minería representa un pilar fundamental para la e
 
 La minería ilegal en la Amazonía peruana ha vertido al ambiente grandes cantidades de mercurio, siendo una de las principales fuentes de contaminación de los ríos amazónicos, incluyendo el Marañón(3). Estudios indican que se han utilizado más de 3,000 toneladas de mercurio en la minería artesanal e informal en la región en los últimos 20 años, lo que ha generado una acumulación crítica de este metal en los ecosistemas acuáticos(4). La concentración de mercurio afecta directamente la calidad del agua, la fauna y la salud de las comunidades ribereñas, que dependen del río para subsistir.
 
-![IMAGENES](IMAGENES/ACCA.png)
+![Impacto ambiental](IMAGENES/ACCA.png)
 
 ## Pasivos ambientales sin remediación
 
