@@ -14,11 +14,11 @@ El norte del Perú es una de las zonas más importantes y atractivas para la pro
 
 Es importante señalar que la minería representa un pilar fundamental para la economía peruana. El país alberga algunas de las mayores reservas globales de metales como la plata, el cobre, el zinc y el oro. Según el Ministerio de Energía y Minas en el año 2023 esta riqueza ha permitido que, durante la última década, el sector minero haya contribuido con aproximadamente el 9.46% del Producto Bruto Interno (PBI), generando cerca del 65.1% del total de exportaciones(2). Esta dualidad entre los beneficios económicos y los impactos negativos socioambientales refleja la complejidad de la minería en el Perú.
 
-IMAGENES/minem 2023.png
+![minem 2023](IMAGENES/minem 2023.png)
 
 La minería ilegal en la Amazonía peruana ha vertido al ambiente grandes cantidades de mercurio, siendo una de las principales fuentes de contaminación de los ríos amazónicos, incluyendo el Marañón(3). Estudios indican que se han utilizado más de 3,000 toneladas de mercurio en la minería artesanal e informal en la región en los últimos 20 años, lo que ha generado una acumulación crítica de este metal en los ecosistemas acuáticos(4). La concentración de mercurio afecta directamente la calidad del agua, la fauna y la salud de las comunidades ribereñas, que dependen del río para subsistir.
 
-IMAGENES/ACCA.png
+![ACCA](IMAGENES/ACCA.png)
 
 ## Pasivos ambientales sin remediación
 
@@ -30,8 +30,8 @@ Estos pasivos contienen relaves con altos niveles de metales tóxicos, que se fi
 
 Además de la minería, el Oleoducto Norperuano, operado por Petroperú, ha contribuido a la contaminación de la cuenca. Entre los años 1997 y 2019 se han registrado más de 60 derrames en zonas que impactan directamente al río Marañón, liberando metales como cadmio, plomo y arsénico(7).
 
-IMAGENES/derrames.png
-IMAGENES/TOTAL.png
+![derrames](IMAGENES/derrames.png)
+![TOTAL](IMAGENES/TOTAL.png)
 
 Estos derrames no solo generan pérdidas ambientales, sino también económicas, afectando a los agricultores, pescadores y comunidades que dependen del agua para sus actividades productivas. Pese a las sanciones impuestas, Petroperú ha incumplido sistemáticamente sus compromisos de reparación(8).
 
@@ -54,6 +54,3 @@ http://repositorio.oefa.gob.pe/fhandle/20.500.12788/6532
 7. Google Docs [Internet]. [citado 13 de abril de 2025]. Informe SAIP IDL.pdf. Disponible en: https://drive.google.com/file/d/1owDSRASTwZCmflAXSmwvO51c4wGMOXzn/view?usp=embed_facebook
 
 8. yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/
- 
-
-
