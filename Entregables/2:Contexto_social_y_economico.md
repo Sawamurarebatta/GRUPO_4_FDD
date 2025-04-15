@@ -1,45 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contaminación en el río Marañón - Perú</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2980b9;
-            margin-top: 30px;
-        }
-        .reference {
-            font-style: italic;
-            margin-top: 40px;
-            border-top: 1px solid #ccc;
-            padding-top: 20px;
-        }
-        .image-placeholder {
-            background-color: #f5f5f5;
-            border: 1px dashed #ccc;
-            padding: 10px;
-            text-align: center;
-            margin: 20px 0;
-            font-style: italic;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
+ 
+ 
     <h1>DESCRIPCIÓN DEL CONTEXTO SOCIAL:</h1>
     <p>En el norte del Perú, el río Marañón es fundamental para las comunidades que dependen de él para darse abasto de agua, pesca y consumo doméstico como el aseo o limpieza. Sin embargo, la contaminación por metales pesados, como mercurio y arsénico, originada por actividades mineras ilegales y extractivas, ha afectado la salud de estas poblaciones.</p>
 
@@ -92,5 +52,4 @@
 
         <p>8. yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/</p>
     </div>
-</body>
-</html>
+ 
