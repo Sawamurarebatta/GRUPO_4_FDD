@@ -14,3 +14,16 @@ Muchas de estas comunidades, como la del pueblo Wampis en Fernando Rosas, han de
 y conflictos sociales activos [^3]. A esto se suma el hecho de que en las últimas dos décadas se han vertido más de 3,000 toneladas de mercurio en la Amazonía peruana debido a la
 minería ilegal, afectando gravemente la salud pública y los ecosistemas acuáticos [^4]. Esta problemática requiere una intervención urgente desde el Estado y la sociedad civil
 para garantizar agua limpia y el respeto a los derechos de las poblaciones ribereñas.
+
+
+### Herramientas usadas para identifiicar el problema
+
+# 1. Mapa de Empatía 
+
+# 2. Journey Map 
+![1](https://github.com/user-attachments/assets/3c2811d6-74da-46bd-abc7-9d08ff77d743)
+
+# 3. Diagrama Causa - Efecto 
+
+![2](https://github.com/user-attachments/assets/67fd00c2-9c34-465b-b1a2-83b57e26a888)
+
