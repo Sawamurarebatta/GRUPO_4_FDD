@@ -16,7 +16,7 @@ minería ilegal, afectando gravemente la salud pública y los ecosistemas acuát
 para garantizar agua limpia y el respeto a los derechos de las poblaciones ribereñas.
 
 
-#Herramientas usadas para identifiicar el problema
+# Herramientas usadas para identifiicar el problema
 
 ### 1. Mapa de Empatía 
 
