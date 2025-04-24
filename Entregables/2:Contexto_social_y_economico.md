@@ -1,12 +1,23 @@
 # Contexto social y económico
 
-## DESCRIPCIÓN DEL CONTEXTO SOCIAL
+### DESCRIPCIÓN DEL CONTEXTO SOCIAL
 
-En el norte del Perú, el río Marañón es fundamental para las comunidades que dependen de él para darse abasto de agua, pesca y consumo doméstico como el aseo o limpieza. Sin embargo, la contaminación por metales pesados, como mercurio y arsénico, originada por actividades mineras ilegales y extractivas, ha afectado la salud de estas poblaciones.
+En el norte del Perú, la contaminación del río Marañón, una de las principales arterias fluviales del país, ha generado un gran impacto social en las comunidades nativas que dependen de sus aguas para sus actividades domésticas, agrícolas y otras[^9].
 
-En un estudio realizado en la cuenca del río Marañón, en Loreto, se descubrió que algunas áreas estaban siendo afectadas por actividades relacionadas con los hidrocarburos y metales pesados. Se encontraron altos niveles de plomo, selenio y fósforo en el agua, que excedían los límites permitidos por los estándares de calidad ambiental para el agua [^1].
+![Fuente: Autoridad Nacional del Agua (Cuenca hidrográfica del Río Marañón](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/Cuenca_R%C3%ADoMara%C3%B1%C3%B3n.png)
 
-Esta situación es bastante alarmante porque pone en riesgo la salud de las personas que viven en esta región, más aún cuando muchos consumen el agua directamente del río sin ningún tipo de tratamiento. La presencia de metales pesados en el organismo puede provocar diversos problemas de salud, que van desde síntomas leves como diarreas y mareos, hasta enfermedades mucho más graves, como el cáncer [^4].
+
+#### Monitoreo de Calidad de Agua
+
+Según un monitoreo realizado por la Autoridad Nacional del Agua en 2021 sobre la calidad del agua en la Intercuenca Alto Marañón I, donde se evaluaron 11 puntos de muestreo, los resultados fueron bastante alarmantes. Se evidenció la presencia de metales pesados que superaron por mucho los Estándares de Calidad Ambiental (ECA), especialmente en los ríos Marañón y Chiriaco. Por ejemplo, solo en el río Marañón se registraron concentraciones de hierro de hasta 58,37 mg/L y de aluminio de 44,12 mg/L, cuando los límites permisibles para uso agrícola son significativamente menores[^9].
+
+![Fuente: Autoridad Nacional del Agua (Cuenca hidrográfica del Río Marañón.]([URL_de_la_imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/AltoMara%C3%B1on.png))
+
+
+#### Impacto y conflictos socioambientales
+
+En los últimos años, la contaminación del río Marañón ha causado problemas sociales y ambientales en la región. De acuerdo con el Reporte de Conflictos Sociales de la Defensoría del Pueblo, en 2025 hay comunidades de Loreto que se ven afectadas porque sus fuentes de agua fueron dañadas por derrames de petróleo y otras actividades extractivas[^10]. Esto provocó malestar en la población, protestas y reclamos de parte de los pueblos indígenas, que piden soluciones y que se respeten sus derechos. Entre estas, podemos mencionar el conflicto de la Comunidad Nativa Fernando Rosas del pueblo indígena Wampis debido a la contaminación de la quebrada Shifeco, que forma parte de la cuenca del río Morona y lleva 4 años activa, hasta la fecha, sin diálogo[^11].
+
 
 ## DESCRIPCIÓN DEL CONTEXTO ECONÓMICO
 
@@ -53,3 +64,10 @@ Estos derrames no solo generan pérdidas ambientales, sino también económicas,
 [^6]: Defensoría del Pueblo. (2021).  En defensa de las personas expuestas a metales pesados y otras sustancias quimicas en el Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2021/12/Informe-de-Adjunti%CC%81a-N%C2%B0-19-2021-DP-AMASPPI.pdf 
 [^7]: IDL. Informe SAIP sobre derrames del Oleoducto Norperuano 28 de agosto 2019.
 [^8]: yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/
+
+[^9]: Ministerio del Ambiente (MINAM). Informe técnico N° 0030-2021. Caracterización biofísica de la microcuenca del río Santiago. Amazonas: Sistema Nacional de Información Ambiental – SINIA; 2021 [citado 2025 abr 21]. Disponible en: https://sinia.minam.gob.pe/sites/default/files/siar-amazonas/archivos/public/docs/informe_tecnico_ndeg0030-2021._santiago.pdf
+
+[^10]: Defensoría del Pueblo. Reporte de conflictos sociales N.º 252. Febrero de 2025. Lima: Defensoría del Pueblo; 2025 [citado 2025 abr 21]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2025/03/RCS-N%C2%B0-252-Feb-2025.pdf
+
+
+
