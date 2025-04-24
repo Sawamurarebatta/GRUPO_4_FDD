@@ -55,19 +55,19 @@ Estos derrames no solo generan pérdidas ambientales, sino también económicas,
 [^1]: Eneque Puicón AM. Informe de evaluación ambiental para la identificación del sitio impactado por actividades de hidrocarburos con código S0008-A, ubicado en el ámbito de la cuenca del río Marañón, distrito de Urarinas, provincia y departamento de Loreto. Org Eval Fisc Ambient - OEFA [Internet]. 17 de septiembre de 2019 [citado 10 de abril de 2025]; Disponible en: http://repositorio.oefa.gob.pe//handle/20.500.12788/653
   
 [^2]: MINEM (2023). Informe Anual de Recursos y Reservas Mineras del Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/6682903/5804716-am-2023%282%29.pdf?v=1723504121
- 
+
 [^3]: Fundación para la Conservación y el Desarrollo Sostenible [FCDS-Perú]; Unidos por los Bosques (2023). Minería ilegal en la Amazonía peruana, diagnóstico situacional sobre el avance e impacto de la actividad minera en las regiones amazónicas de Loreto, San Martín, Amazonas, Ucayali, Madre de Dios y la provincia de Puerto Inca, en Huánuco. Lima: FCDS-Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://fcds.org.pe/wp-content/uploads/2024/07/MINERIA_FINAL_IMPRESION_compressed.pdf
 
 [^4]: Ministerio del Ambiente – MINAM (2017a). Programa Presupuestal N° 0144: Conservación y uso sostenible de ecosistemas para la provisión de servicios ecosistémicos. Lima: MINAM. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://preveniramazonia.pe/wp-content/uploads/Documento-La-mineri%CC%81a-ilegal-en-la-Amazoni%CC%81a-peruana-versio%CC%81n-pdf.pdf.pdf
- 
+
 [^5]: Informe-de-Conflictos-Mineros-31-dic-2022.pdf [Internet]. [citado 13 de abril de 2025]. Disponible en: https://conflictosmineros.org.pe/wp-content/uploads/2022/12/Informe-de-Conflictos-Mineros-31-dic-2022.pdf
+
 [^6]: Defensoría del Pueblo. (2021).  En defensa de las personas expuestas a metales pesados y otras sustancias quimicas en el Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2021/12/Informe-de-Adjunti%CC%81a-N%C2%B0-19-2021-DP-AMASPPI.pdf 
+
 [^7]: IDL. Informe SAIP sobre derrames del Oleoducto Norperuano 28 de agosto 2019.
+
 [^8]: yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/
 
 [^9]: Ministerio del Ambiente (MINAM). Informe técnico N° 0030-2021. Caracterización biofísica de la microcuenca del río Santiago. Amazonas: Sistema Nacional de Información Ambiental – SINIA; 2021 [citado 2025 abr 21]. Disponible en: https://sinia.minam.gob.pe/sites/default/files/siar-amazonas/archivos/public/docs/informe_tecnico_ndeg0030-2021._santiago.pdf
 
 [^10]: Defensoría del Pueblo. Reporte de conflictos sociales N.º 252. Febrero de 2025. Lima: Defensoría del Pueblo; 2025 [citado 2025 abr 21]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2025/03/RCS-N%C2%B0-252-Feb-2025.pdf
-
-
-
