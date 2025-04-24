@@ -1,16 +1,17 @@
 
-# Planteamiento de la Problemática
+### Planteamiento de la Problemática
 
-En la actualidad, si bien el agua es un derecho humano fundamental para la salud, aunque la mayor parte de la población tenga acceso a ella, no implica necesariamente que esta sea de buena calidad, más aún cuando a la contaminación de metales pesados nos referimos, productos químicos que amenazan la salud de las comunidades aledañas que en muchos casos, dependen de estas fuentes para abastecerse. Esta situación, se encuentra enmarcada dentro de la tercera meta de la **ODS 6**:  
-**"Mejorar la calidad del agua reduciendo la contaminación, eliminando los vertidos y minimizando la emisión de productos químicos y materiales peligrosos"**. Aunque hay muchos avances en este aspecto, todavía hay mucho que recorrer.
+# Problemática: Alta concentración de metales pesados en el río Marañón
 
-El Perú no escapa de esta realidad, pues según estudios realizados por el **Ministerio de Salud (MINSA)**, muchas comunidades indígenas se han visto afectadas por la contaminación de ríos. Entre estas se encuentra el caso del **río Marañón**, que al ser una fuente directa para las comunidades del distrito de **Uranias y Parini**, ubicadas en **Loreto**, se encontró que de las **52 comunidades estudiadas**, **49** poseían metales pesados como el **plomo, aluminio, hierro**, entre otros. (1)
+Las poblaciones aledañas al río Marañón enfrentan una grave situación ambiental y social debido a la alta concentración de metales pesados en sus aguas, como hierro, aluminio, 
+plomo, mercurio y cadmio. Según el monitoreo de calidad del agua realizado por la Autoridad Nacional del Agua en 2021, en algunos puntos del río se detectaron niveles de hierro 
+de hasta 58.37 mg/L y de aluminio de 44.12 mg/L, muy por encima de los límites permisibles para uso agrícola y humano [^1]. Esta situación ha sido provocada por diversas 
+actividades extractivas, especialmente la minería formal e informal, así como por los derrames del Oleoducto Norperuano, el cual ha registrado más de 60 incidentes entre 1997 y 
+2019 [^2].
 
-La presencia de estos metales en las fuentes de agua, exponen a los pobladores de las comunidades aledañas a **riesgos sanitarios** que pueden repercutir gravemente en su salud, dado a que están directamente asociados con muchos trastornos fisiológicos, entre estos, **problemas cardiovasculares, lesiones renales, daños neurológicos** e incluso la muerte. (2)
+El impacto de esta contaminación se refleja en la vida diaria de las comunidades indígenas, quienes dependen del río para sus actividades domésticas, agrícolas y alimenticias.
+Muchas de estas comunidades, como la del pueblo Wampis en Fernando Rosas, han denunciado la contaminación constante sin recibir respuesta efectiva del Estado, generando malestar 
+y conflictos sociales activos [^3]. A esto se suma el hecho de que en las últimas dos décadas se han vertido más de 3,000 toneladas de mercurio en la Amazonía peruana debido a la
+minería ilegal, afectando gravemente la salud pública y los ecosistemas acuáticos [^4]. Esta problemática requiere una intervención urgente desde el Estado y la sociedad civil
+para garantizar agua limpia y el respeto a los derechos de las poblaciones ribereñas.
 
-## Referencias
-
-1.Ruiz Molleda JC, Osores Plenge F. ¿Cómo afecta a las comunidades nativas del Marañón la presencia de metales pesados? Lima: Justicia Viva - IDL; 2017. Disponible en: https://www.justiciaviva.org.pe/new/wp-content/uploads/2017/05/C%C3%B3mo-afecta-a-las-comunidades-nativas-del-Mara%C3%B1%C3%B3n-la-presencia-de-metales-pesados.-18-05-2017-Final.pdf
-
-
-2. **Bravo APA**, **Navarro PC**, **Flores JS**, **Sánchez EDT**, **Contreras J de JL**, **Lara DL del CD**. *Intoxicación con metales pesados: una revisión de la literatura.* **Cienc Front.** 10 de octubre de 2024; 2(1): 16-28. Disponible en:  https://ojscyf.uag.mx/index.php/ciencia_y_frontera/article/view/301/137
