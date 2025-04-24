@@ -19,6 +19,7 @@ para garantizar agua limpia y el respeto a los derechos de las poblaciones riber
 # Herramientas usadas para identifiicar el problema
 
 ### 1. Mapa de Empatía 
+![WhatsApp Image 2025-04-24 at 10 34 24 AM](https://github.com/user-attachments/assets/c7e3dd6d-b5d5-4763-a29d-ecb720cb3ddf)
 
 ### 2. Journey Map 
 ![1](https://github.com/user-attachments/assets/3c2811d6-74da-46bd-abc7-9d08ff77d743)
