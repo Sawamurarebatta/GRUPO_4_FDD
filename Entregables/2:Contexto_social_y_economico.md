@@ -11,7 +11,7 @@ En el norte del Perú, la contaminación del río Marañón, una de las principa
 
 Según un monitoreo realizado por la Autoridad Nacional del Agua en 2021 sobre la calidad del agua en la Intercuenca Alto Marañón I, donde se evaluaron 11 puntos de muestreo, los resultados fueron bastante alarmantes. Se evidenció la presencia de metales pesados que superaron por mucho los Estándares de Calidad Ambiental (ECA), especialmente en los ríos Marañón y Chiriaco. Por ejemplo, solo en el río Marañón se registraron concentraciones de hierro de hasta 58,37 mg/L y de aluminio de 44,12 mg/L, cuando los límites permisibles para uso agrícola son significativamente menores[^9].
 
-![Fuente: Autoridad Nacional del Agua (Cuenca hidrográfica del Río Marañón.]([URL_de_la_imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/AltoMara%C3%B1on.png))
+![Fuente: Autoridad Nacional del Agua (Cuenca hidrográfica del Río Marañón)](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/AltoMara%C3%B1on.png)
 
 
 #### Impacto y conflictos socioambientales
