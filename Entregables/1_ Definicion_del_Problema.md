@@ -22,5 +22,17 @@ Por ello, resulta urgente implementar tecnologías portátiles, económicas y f�
 
 ![2](https://github.com/user-attachments/assets/67fd00c2-9c34-465b-b1a2-83b57e26a888)
 
+## REFERENCIAS
+
+[1]: Defensoría del Pueblo. Reporte de conflictos sociales N.º 252. Febrero de 2025. Lima: Defensoría del Pueblo; 2025 [citado 2025 abr Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2025/03/RCS-N%C2%B0-252-Feb-2025.pdf
+
+[2]: Ministerio del Ambiente (MINAM). Informe técnico N° 0030-2021. Caracterización biofísica de la microcuenca del río Santiago. Amazonas: Sistema Nacional de Información Ambiental – SINIA; 2021 [citado 2025 abr 21]. Disponible en: https://sinia.minam.gob.pe/sites/default/files/siar-amazonas/archivos/public/docs/informe_tecnico_ndeg0030-2021._santiago.pdf
+[3]: Fundación para la Conservación y el Desarrollo Sostenible [FCDS-Perú]; Unidos por los Bosques (2023). Minería ilegal en la Amazonía peruana, diagnóstico situacional sobre el avance e impacto de la actividad minera en las regiones amazónicas de Loreto, San Martín, Amazonas, Ucayali, Madre de Dios y la provincia de Puerto Inca, en Huánuco. Lima: FCDS-Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://fcds.org.pe/wp-content/uploads/2024/07/MINERIA_FINAL_IMPRESION_compressed.pdf
+[4]: MINEM (2023). Informe Anual de Recursos y Reservas Mineras del Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/6682903/5804716-am-2023%282%29.pdf?v=1723504121
+[5]: Silva Torres, D. A., & Coello Hurtado, J. I. (2020). Diseño e implementación de un sistema de monitoreo en tiempo real de sensores de temperatura, turbidez, TDS y pH para la calidad del agua utilizando la tecnología LoRaWAN [Trabajo de titulación, Universidad Politécnica Salesiana]. Repositorio Institucional UPS.
+https://dspace.ups.edu.ec/handle/123456789/19627
+
+
+
 
 
