@@ -65,6 +65,7 @@ Estos derrames no solo generan pérdidas ambientales, sino también económicas,
 [^6]: Defensoría del Pueblo. (2021).  En defensa de las personas expuestas a metales pesados y otras sustancias quimicas en el Perú. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2021/12/Informe-de-Adjunti%CC%81a-N%C2%B0-19-2021-DP-AMASPPI.pdf 
 
 [^7]: IDL. Informe SAIP sobre derrames del Oleoducto Norperuano 28 de agosto 2019.
+https://drive.google.com/file/d/1owDSRASTwZCmfIAXSmwvO51c4wGM0Xzn/view
 
 [^8]: yvette. Noticias ambientales. 2023 [citado 13 de abril de 2025]. Derrame de más de tres mil barriles de petróleo afecta a por lo menos 30 comunidades indígenas en la Amazonía de Perú. Disponible en: https://es.mongabay.com/2023/01/derrame-de-petroleo-afecta-a-por-lo-menos-30-comunidades-indigenas-en-la-amazonia-de-peru/
 
