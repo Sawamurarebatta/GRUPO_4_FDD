@@ -1,5 +1,6 @@
-### ODS 6
-### OBJETIVO 6.3
+### ODS 6 Agua limpia y saneamiento
+### Meta 6.3:
+“De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial.” (Naciones Unidas, 2015)
 
 ### Planteamiento de la Problemática
 
