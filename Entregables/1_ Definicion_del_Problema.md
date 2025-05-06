@@ -16,11 +16,11 @@ Por ello, resulta urgente implementar tecnologías portátiles, económicas y se
 ![WhatsApp Image 2025-04-24 at 10 34 24 AM](https://github.com/user-attachments/assets/c7e3dd6d-b5d5-4763-a29d-ecb720cb3ddf)
 
 ### 2. Journey Map 
-![1](https://github.com/user-attachments/assets/3c2811d6-74da-46bd-abc7-9d08ff77d743)
+![1](https://github.com/user-attachments/assets/88c0ba94-b1d4-458a-988d-537ebda97820)
 
 ### 3. Diagrama Causa - Efecto 
 
-![2](https://github.com/user-attachments/assets/67fd00c2-9c34-465b-b1a2-83b57e26a888)
+![2](https://github.com/user-attachments/assets/29b7b2cf-8058-4812-b4d7-0f0ad7e2d17b)
 
 ## REFERENCIAS
 
