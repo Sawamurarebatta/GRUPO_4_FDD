@@ -2,7 +2,7 @@
 
 ### Planteamiento de la Problemática
 
-# Problemática: Falta de autonomía tecnológica en comunidades de la cuenca del río Marañón para alertar sobre posibles contaminaciones del agua causadas por actividades extractivas
+# Problemática: Contaminación por metales pesados en el río Marañón debido a la minería ilegal, afectando el ecosistema acuático y la salud de las comunidades indígenas cercanas.
 
 Las comunidades ubicadas a lo largo del río Marañón enfrentan una grave situación ambiental debido a la contaminación del agua provocada por actividades extractivas como la minería formal e informal, y los frecuentes derrames del Oleoducto Norperuano, que ha registrado más de 60 incidentes entre 1997 y 2019 [1]. Según datos de la Autoridad Nacional del Agua (ANA), en 2021 se detectaron en algunos puntos del río niveles de hierro de hasta 58.37 mg/L y de aluminio de 44.12 mg/L, concentraciones superiores a los límites permisibles para uso humano y agrícola [2]. Además, se estima que en las últimas dos décadas más de 3,000 toneladas de mercurio han sido vertidas en la Amazonía peruana, agravando el riesgo para la salud pública y los ecosistemas acuáticos [3].
 
