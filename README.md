@@ -1,3 +1,11 @@
+## Bienvenidos a nuestro repositorio
+
+# 🎓 UNIVERSIDAD PERUANA CAYETANO HEREDIA
+
+![logoupch]([ruta/o/url/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/logo-upch.png))
+
+---
+
 # 🚀 **Grupo 4 - Fundamentos de Diseño** 📐
 
 Bienvenidos al repositorio del **Grupo 4** del curso **"Fundamentos de Diseño"** de la **Universidad Peruana Cayetano Heredia**. Este repositorio contiene todos los archivos y proyectos realizados durante el curso.
@@ -11,7 +19,7 @@ La **Universidad Peruana Cayetano Heredia (UPCH)** es una de las universidades m
 
 ## 🔎 **Objetivo del Proyecto**
 
-Este proyecto tiene como finalidad **aplicar los conocimientos adquiridos en la asignatura** para desarrollar soluciones de diseño funcionales y visualmente atractivas, considerando la interacción de los usuarios con las interfaces.
+Desarrollar una solución tecnológica accesible y sostenible que permita a los pequeños y medianos agricultores del VRAEM monitorear en tiempo real las condiciones del suelo, con el fin de mejorar la productividad agrícola.
 
 ---
 
@@ -19,8 +27,9 @@ Este proyecto tiene como finalidad **aplicar los conocimientos adquiridos en la 
 
 Este repositorio contiene las siguientes carpetas y archivos:
 
-- **MIEMBROS**: Información de los integrantes.
-- **Recursos**: Imágenes y recursos utilizados.
+- **Entregables**: Avance periódico del proyecto.
+- **Recursos**: Recursos utilizados.
+- - **Imágenes**: Imágenes empleadas.
 - **README.md**: Este archivo, que proporciona información relevante sobre el proyecto.
 
 
@@ -28,6 +37,11 @@ Este repositorio contiene las siguientes carpetas y archivos:
 
 - **Yosselin Cosme** - Líder del grupo
 - **Patricia Rebatta** - Administrador de repositorio
-- **Jorge Roldán**  
-- **Michael Andres** 
+- **Jorge Roldán**  - Responsable de Pruebas y Validación
+- **Michael Andres** - Diseñador en Oneshape
+
+
+
+![Tecnología y medio ambiente](https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif)
+
 
