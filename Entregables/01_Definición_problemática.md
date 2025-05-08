@@ -13,11 +13,11 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 
 ## 🛠️ Herramientas que nos ayudaron a identificar la problemática
 
-##Mapa de empatía
+## Mapa de empatía
 
 ![](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_empatia.png)
 
-###Referencias del mapa de empatía
+### Referencias del mapa de empatía
 
 1. Inforegión. Amazonía: nuevas zonas de cultivo ilegal de coca causan deforestación [Internet]. 2024 [citado 7 mayo 2025]. Disponible en: https://inforegion.pe/amazonia-nuevas-zonas-de-cultivo-ilegal-de-coca-causan-deforestacion/?utm_source=.com
 2. Programa de Desarrollo del VRAEM (PROVRAEM). Capacitación integral del equipo técnico del Proyecto Suelos del PROVRAEM en certificación orgánica y zonificación forestal [Internet]. Gobierno del Perú; 2024 [citado 7 mayo 2025]. Disponible en: https://www.gob.pe/institucion/provraem/noticias/965217-capacitacion-integral-del-equipo-tecnico-del-proyecto-suelos-del-provraem-en-certificacion-organica-y-zonificacion-forestal?utm_source=chatgpt.com
@@ -31,18 +31,18 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 
 ![](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_viajero.png)
 
-###Referencias del Journal Map
+### Referencias del Journal Map
 
 1. Ministerio de Desarrollo Agrario y Riego (MIDAGRI). Resolución Directoral Ejecutiva Nº 056-2023-MIDAGRI-PROVRAEM-DE [Internet]. Lima: MIDAGRI; 2023 [citado 2025 May 7]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4282917/RDE%20N%C2%BA056-2023-MI)DAGRI-PROVRAEM-DE.pdf.pdf
 2. AgroPerú. Reforestarán 1180 hectáreas de suelos degradados en el VRAEM [Internet]. AgroPerú; 2023 [citado 2025 May 7]. Disponible en: https://www.agroperu.pe/reforestaran-1180-hectareas-de-suelos-degradados-en-el-vraem/
 3. Comisión Nacional para el Desarrollo y Vida sin Drogas (DEVIDA). VRAEM: Cerca de tres mil productores cacaoteros son asistidos en manejo integrado de plagas en 10 distritos [Internet]. Lima: Plataforma digital única del Estado Peruano; 2022 [citado 2025 May 7]. Disponible en: https://www.gob.pe/institucion/devida/noticias/482852-vraem-cerca-de-tres-mil-productores-cacaoteros-son-asistidos-en-manejo-integrado-de-plagas-en-10-distritos
 
 
-##Diagrama de causa y efecto
+## Diagrama de causa y efecto
 
 ![](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_causa_efecto.png)
 
-###Referencias del diagrama de causa y efecto
+### Referencias del diagrama de causa y efecto
 
 1.	299-PPT_VRAEM_OGEIEE_29.04.2024.pdf [Internet]. [citado 8 de mayo de 2025]. Disponible en: https://www.producempresarial.pe/wp-content/uploads/2025/03/299-PPT_VRAEM_OGEIEE_29.04.2024.pdf
 2.	Garland EB, Aramburú CE, Burneo Z. Una agricultura insostenible y la crisis del barbecho: El caso de los agricultores del valle de los ríos Apurímac y Ene- VRAE. Anthropologica. 1 de agosto de 2017;35(38):211-40.
