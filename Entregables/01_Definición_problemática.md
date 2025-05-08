@@ -27,7 +27,7 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 6. Diario El Peruano. Ponen en marcha proyecto de recuperación de suelos degradados en el VRAEM [Internet]. Lima: El Peruano; 2024 [citado 7 mayo 2025]. Disponible en: https://www.elperuano.pe/noticia/203985-ponen-en-marcha-proyecto-de-recuperacion-de-suelos-degradados-en-el-vraem?utm_source=chatgpt.com
 7. Programa de Compensaciones para la Competitividad - AGROIDEAS. Caracterización y diagnóstico del ámbito del VRAEM [Internet]. Lima: AGROIDEAS; 2017 [citado 7 mayo 2025]. Disponible en: https://www.agroideas.gob.pe/wp-content/uploads/2017/12/PUBLICACIONES-VRAEM.pdf?utm_source=chatgpt.com
 
-##Journal Map
+## Journal Map
 
 ![](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_viajero.png)
 
