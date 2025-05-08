@@ -12,6 +12,7 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 ![Imagen del VRAEM](./Entregables/IMAGENES/VRAEM.png)
 
 
+
 ## 🛠️ Herramientas que nos ayudaron a identificar la problemática
 
 ## Mapa de empatía
