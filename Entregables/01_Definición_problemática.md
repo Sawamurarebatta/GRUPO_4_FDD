@@ -9,9 +9,7 @@ Productores agrícolas y agricultores locales en zonas rurales del VRAEM, espec�
 ## ❗ Definición de la problemática  
 La disminución de la productividad agrícola en la región del VRAEM debido a la degradación del suelo, exacerbada por la falta de un monitoreo preciso de las condiciones del suelo.
 
-<a href="../IMAGENES/VRAEM.png" target="_blank" rel="noopener">
-  <img src="../IMAGENES/VRAEM.png" alt="Imagen del VRAEM" />
-</a>
+![Imagen del VRAEM](../IMAGENES/VRAEM.png)
 
 
 
