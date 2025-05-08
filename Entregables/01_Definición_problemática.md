@@ -46,7 +46,7 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 
 ## Diagrama de causa y efecto
 
-![causa](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_causa_efecto.png)
+![causa](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/2.png)
 
 ### Referencias del diagrama de causa y efecto
 
