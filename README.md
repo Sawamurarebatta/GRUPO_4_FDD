@@ -29,7 +29,7 @@ Este repositorio contiene las siguientes carpetas y archivos:
 
 - **Entregables**: Avance periódico del proyecto.
 - **Recursos**: Recursos utilizados.
-- - **Imágenes**: Imágenes empleadas.
+- **Imágenes**: Imágenes empleadas.
 - **README.md**: Este archivo, que proporciona información relevante sobre el proyecto.
 
 
