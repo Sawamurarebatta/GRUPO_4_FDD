@@ -1,42 +1,76 @@
-### ODS 6 Agua limpia y saneamiento
-### Meta 6.3:
-“De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial.” (Naciones Unidas, 2015)
+### 🌱 ODS 2: Hambre Cero
+### 🎯 Meta 2.4:
+"Para 2030, asegurar la sostenibilidad de los sistemas de producción de alimentos y aplicar prácticas agrícolas resilientes que aumenten la productividad y la producción, contribuyan al mantenimiento de los ecosistemas, fortalezcan la capacidad de adaptación al cambio climático, a fenómenos meteorológicos extremos, sequías, inundaciones y otros desastres..."
+
+USUARIO: Productores agrícolas y agricultores locales en zonas rurales del VRAEM, específicamente pequeños y medianos agricultores que cultivan productos como café, cacao, frutas, y hortalizas.
 
 ### Planteamiento de la Problemática
-
-# Problemática: Contaminación por metales pesados en el río Marañón debido a la minería ilegal, afectando el ecosistema acuático y la salud de las comunidades indígenas cercanas.
-
-Las comunidades ubicadas a lo largo del río Marañón enfrentan una grave situación ambiental debido a la contaminación del agua provocada por actividades extractivas como la minería formal e informal, y los frecuentes derrames del Oleoducto Norperuano, que ha registrado más de 60 incidentes entre 1997 y 2019 [1]. 
-
-Según datos de la Autoridad Nacional del Agua (ANA), en 2021 se detectaron en algunos puntos del río niveles de hierro de hasta 58.37 mg/L y de aluminio de 44.12 mg/L que son de 5mg/L[2]. Estos valores están muy por encima de los estándares que establece la normativa peruana. De acuerdo con el Decreto Supremo N.º 002-2008-MINAM, el límite máximo permitido para ambos metales, en contextos de uso humano y agrícola, es de 5 mg/L[3]. Además, se estima que en las últimas dos décadas más de 3,000 toneladas de mercurio han sido vertidas en la Amazonía peruana, agravando el riesgo para la salud pública y los ecosistemas acuáticos [4].
-
-El impacto de esta contaminación se refleja en la vida diaria de las comunidades indígenas, quienes dependen del río para sus actividades domésticas, agrícolas y alimenticias. Muchas de estas comunidades, como la del pueblo Wampis en Fernando Rosas, han denunciado la contaminación constante sin recibir respuesta efectiva del Estado, generando malestar y conflictos sociales activos [5].
-
-# Herramientas usadas para identifiicar el problema
-
-### 1. Mapa de Empatía 
-![WhatsApp Image 2025-04-24 at 10 34 24 AM](https://github.com/user-attachments/assets/c7e3dd6d-b5d5-4763-a29d-ecb720cb3ddf)
-
-### 2. Journey Map 
-![1](https://github.com/user-attachments/assets/88c0ba94-b1d4-458a-988d-537ebda97820)
-
-### 3. Diagrama Causa - Efecto 
-
-![2](https://github.com/user-attachments/assets/29b7b2cf-8058-4812-b4d7-0f0ad7e2d17b)
-
-## REFERENCIAS
-
-[1]: IDL. Informe SAIP sobre derrames del Oleoducto Norperuano 28 de agosto 2019
-
-[2]: Ministerio del Ambiente (MINAM). Informe técnico N° 0030-2021. Caracterización biofísica de la microcuenca del río Santiago. Amazonas: Sistema Nacional de Información Ambiental – SINIA; 2021 [citado 2025 abr 21]. Disponible en: https://sinia.minam.gob.pe/sites/default/files/siar-amazonas/archivos/public/docs/informe_tecnico_ndeg0030-2021._santiago.pdf
+La disminución de la productividad agrícola en la región del VRAEM debido a la degradación del suelo, exacerbada por la falta de un monitoreo preciso de las condiciones del suelo.
 
 
-[3]: Ministerio del Ambiente [MINAM]. (2008). Decreto Supremo N.º 002-2008-MINAM: Aprueban los Estándares Nacionales de Calidad Ambiental para Agua. Recuperado de
-https://www.minam.gob.pe/wp-content/uploads/2017/06/DS-004-2017-MINAM.pdf
+##DESCRIPCIÓN DEL CONTEXTO SOCIAL
 
-[4]: Ministerio del Ambiente – MINAM (2017a). Programa Presupuestal N° 0144: Conservación y uso sostenible de ecosistemas para la provisión de servicios ecosistémicos. Lima: MINAM. [Internet]. [citado 13 de abril de 2025]. Disponible en: https://preveniramazonia.pe/wp-content/uploads/Documento-La-mineri%CC%81a-ilegal-en-la-Amazoni%CC%81a-peruana-versio%CC%81n-pdf.pdf.pdf
+##1. Pobreza rural y agricultura familiar como base económica del VRAEM
+El VRAEM es una de las regiones con mayor índice de pobreza en el país. Según cifras del INEI que fueron recogidas en documentos del gobierno, cerca del 65% de sus habitantes viven en situación de pobreza, lo cual representa aproximadamente el doble del promedio nacional. Además, más de una cuarta parte de la población se encuentra en pobreza extrema. Esta zona está compuesta en su mayoría por comunidades rurales que enfrentan muchas necesidades básicas insatisfechas. La agricultura familiar es la principal fuente de ingresos en el VRAEM, ya que la mayoría de familias trabaja en pequeñas parcelas(1).
 
-[5]: Defensoría del Pueblo. Reporte de conflictos sociales N.º 252. Febrero de 2025. Lima: Defensoría del Pueblo; 2025 [citado 2025 abr 21]. Disponible en: https://www.defensoria.gob.pe/wp-content/uploads/2025/03/RCS-N%C2%B0-252-Feb-2025.pdf
+A pesar de la presencia de cultivos como café, cacao, frutas y hortalizas, la economía del VRAEM se sostiene principalmente en la actividad agropecuaria, destacándose tres cultivos principales: hoja de coca, cacao y café. Estos concentran más del 80 % del valor total de la producción agrícola regional, con la hoja de coca liderando por su alta rentabilidad al representar más de la mitad de ese valor. En contraste, el cacao y el café tienen un aporte menor. Esta situación refleja una producción agrícola aún limitada en cuanto a diversidad y con bajo nivel de industrialización o transformación(1)(2).
+
+![Texto alternativo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen1.png)
+Fuente: DEVIDA (2022)
+
+![Texto alternativo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen2.png)
+VRAEM: Estimación en función a los distritos de intervención directa e indirecta Fuente: MIDAGRI 
+
+![Texto alternativo]([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen3.png))
+VRAEM: Estimación en función a los distritos de intervención directa e indirecta Fuente: MIDAGRI
+
+##2. Degradación del suelo: 
+En el Perú, según el Ministerio de Desarrollo Agrario y Riego (MIDAGRI), la degradación del suelo es un problema generalizado en el 99% de la superficie agraria del país, lo que implica una pérdida significativa de la capacidad productiva de las tierras agrícolas . En el VRAEM, factores como la deforestación, el uso intensivo de la tierra y prácticas agrícolas no sostenibles han acelerado este proceso, reduciendo la fertilidad del suelo y aumentando la vulnerabilidad de los cultivos a plagas y enfermedades(3).
+
+En el VRAEM, el uso intensivo de monocultivos como el café, el cacao y plantas ilegales ha provocado un notable deterioro del suelo. La siembra continua de una misma especie sin alternancia de cultivos agota los nutrientes, disminuye la materia orgánica y compacta la tierra, lo que compromete su fertilidad. De acuerdo con un informe de Devida, entre los años 2019 y 2021 se registraron numerosas hectáreas afectadas por degradación en distritos como Anco, Anchihuay, Santa Rosa y Llochegua, debido al uso excesivo del terreno y a la alta aplicación de agroquímicos(4).
+
+##DESCRIPCIÓN DEL CONTEXTO ECONOMICO
+
+En el Perú, el sector agropecuario emplea aproximadamente a un cuarto de la fuerza laboral y aportó 7,19 % al PIB en 2023, reflejando su importancia tanto económica como social en zonas rurales donde radica gran parte de la pobreza nacional [5]. 
+
+![Texto alternativo]([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen4.png))
+Fuente: Banco mundial
+
+Fuente: Banco mundial
+
+Aunque solo el 36 % de la superficie agrícola (2,6 millones ha) cuenta con riego tecnificado, esta generan cerca de dos terceras partes de la producción agropecuaria total, lo que evidencia la brecha en infraestructura hídrica y su impacto directo en la productividad y resiliencia ante variaciones climáticas [6].
+
+En el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM), predominan pequeños y medianos productores de café, cacao, frutas y hortalizas que enfrentan una marcada degradación de suelos. Estudios señalan que la intensificación de cultivos de coca y la práctica de roza y quema provocan empobrecimiento de la materia orgánica y pérdida de fertilidad, reduciendo rendimientos año tras año [7].  Apenas entre el 14,6 % y el 16,9 % de la superficie agrícola del Perú cuenta con riego tecnificado, cifra que en las zonas altoandinas no supera el 15 % [4].
+
+ En el VRAEM esta brecha se profundiza: según la Resolución Directoral Ejecutiva N.° 171-2023, al mes de agosto de 2023 los proyectos de reconversión agropecuaria presentan un avance físico acumulado de apenas 7,03 % [5]. Por otro lado, el Proyecto de Desarrollo Territorial Sostenible (PDTS-VRAEM) movilizó una inversión total de S/ 230 987 200 para atender a 51 067 familias rurales entre 2017 y 2022, aunque la falta de monitoreo preciso de la calidad del suelo y del desempeño de las infraestructuras de riego sigue siendo un factor limitante para revertir la pérdida de productividad agrícola [10].
+
+
+
+
+
+
+## Referencias:
+1. Ministerio de Defensa del Perú. Lineamientos para el empleo de las Fuerzas Armadas en el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) [Internet]. Lima: Ministerio de Defensa; 2023 [citado 8 may 2025]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/5216553/ANEXO%20RM%20996%20DE.pdf
+2. Ministerio de la Producción del Perú. Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM): Desempeño económico-productivo sectorial e Intervenciones de PRODUCE [Internet]. Lima: Ministerio de la Producción; 2024 [citado 8 may 2025]. Disponible en: https://www.producempresarial.pe/wp-content/uploads/2025/03/299-PPT_VRAEM_OGEIEE_29.04.2024.pdf
+3. Ministerio de Desarrollo Agrario y Riego del Perú. Informe de Evaluación de Continuidad del Programa de Desarrollo Productivo Agrario Rural – AGRORURAL [Internet]. Lima: MIDAGRI; [citado 8 may 2025]. Disponible en: https://repositorio.midagri.gob.pe/bitstream/20.500.13036/1519/1/Informe%20de%20evaluaci%C3%B3n%20Agrorural.pdf
+4. AgroPerú. Recuperan más de 4 mil hectáreas de suelos degradados en el Vraem [Internet]. AgroPerú; 2021 nov 16 [citado 8 may 2025]. Disponible en: https://www.agroperu.pe/recuperan-mas-de-4-mil-hectareas-de-suelos-degradados-en-el-vraem/
+5. Trading Economics. Agriculture, forestry, and fishing, value added (% of GDP) in Peru was reported at 7.1862 % in 2023 [Internet]. [cited 2025 May 07]. Available from: https://tradingeconomics.com/peru/agriculture-value-added-percent-of-gdp-wb-data.html
+
+6.World Bank. Irrigation for Climate Resilient Agriculture [Internet]. Washington, DC; 2022 [cited 2025 May 07]. p. 8. Available from: https://ewsdata.rightsindevelopment.org/files/documents/37/WB-P179037_c8IOemu.pdf
+
+
+7.Bedoya Garland, Eduardo (2003). Las estrategias productivas y el riesgo entre los cocaleros del valle de los ríos Apurímac y Ene. En Carlos Aramburú y Eduardo Bedoya Garland (eds.), Amazonía. Procesos demográficos y ambientales. Lima: Consorcio de Investigación Económica y Social (CIES). 
+https://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15146/19179
+
+
+8. MIDAGRI. Informe de seguimiento de la política nacional agraria 2024: Porcentaje de superficie agrícola con riego tecnificado (2020–2024) [Internet]. Lima: Ministerio de Desarrollo Agrario y Riego; 2024 [cited 2025 May 07]. p. 45 https://www.midagri.gob.pe/portal/images/pcm/2024/reporte-seguimiento-final.pdf?
+
+
+9. MIDAGRI. Resolución Directoral Ejecutiva N.° 171-2023-MIDAGRI-PROVRAEM/DE: Expediente Técnico del Adicional de Obra N° 01… [Internet]. Lima; 2023. https://cdn.www.gob.pe/uploads/document/file/5256488/RDE%20N%C2%BA%20171-2023-MIDAGRI-PROVRAEM-DE.pdf?
+
+
+10. Agro Rural. Midagri: Inversión de más de S/ 230 millones logró el financiamiento de iniciativas económicas locales en zonas del VRAEM [Internet]. https://www.gob.pe/institucion/agrorural/noticias/788809-midagri-inversion-de-mas-de-s-230-millones-logro-el-financiamiento-de-iniciativas-economicas-locales-en-zonas-del-vraem?
+
 
 
 
