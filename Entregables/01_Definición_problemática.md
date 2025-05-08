@@ -35,8 +35,7 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 
 ## Journal Map
 
-
-https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_viajero.png
+![Mapa_viajero](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_viajero.png)
 
 ### Referencias del Journal Map
 
