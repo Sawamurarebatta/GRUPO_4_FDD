@@ -19,7 +19,7 @@ La disminución de la productividad agrícola en la región del VRAEM debido a l
 
 ## Mapa de empatía
 
-![Mapa de empatía](https://raw.githubusercontent.com/Sawamurarebatta/GRUPO_4_FDD/main/IMAGENES/mapa_empatia.png)
+![Mapa de empatía](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/presentacion%20de%20notas%20de%20papel%20juvenil%20rosado.png)
 
 
 
