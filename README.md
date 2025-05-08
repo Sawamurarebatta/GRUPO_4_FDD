@@ -2,7 +2,7 @@
 
 # 🎓 UNIVERSIDAD PERUANA CAYETANO HEREDIA
 
-![logoupch]([ruta/o/url/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/logo-upch.png))
+![logoupch](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/logo-upch.png?raw=true)
 
 ---
 
