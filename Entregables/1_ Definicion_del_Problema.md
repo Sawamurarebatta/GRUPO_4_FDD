@@ -15,13 +15,16 @@ El VRAEM es una de las regiones con mayor índice de pobreza en el país. Según
 
 A pesar de la presencia de cultivos como café, cacao, frutas y hortalizas, la economía del VRAEM se sostiene principalmente en la actividad agropecuaria, destacándose tres cultivos principales: hoja de coca, cacao y café. Estos concentran más del 80 % del valor total de la producción agrícola regional, con la hoja de coca liderando por su alta rentabilidad al representar más de la mitad de ese valor. En contraste, el cacao y el café tienen un aporte menor. Esta situación refleja una producción agrícola aún limitada en cuanto a diversidad y con bajo nivel de industrialización o transformación(1)(2).
 
-![Texto alternativo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen1.png)
+!(https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen1.png)
+
 Fuente: DEVIDA (2022)
 
-![Texto alternativo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen2.png)
+!(https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen2.png)
+
 VRAEM: Estimación en función a los distritos de intervención directa e indirecta Fuente: MIDAGRI 
 
-![Texto alternativo]([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen3.png))
+!([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen3.png))
+
 VRAEM: Estimación en función a los distritos de intervención directa e indirecta Fuente: MIDAGRI
 
 ##2. Degradación del suelo: 
@@ -33,10 +36,10 @@ En el VRAEM, el uso intensivo de monocultivos como el café, el cacao y plantas 
 
 En el Perú, el sector agropecuario emplea aproximadamente a un cuarto de la fuerza laboral y aportó 7,19 % al PIB en 2023, reflejando su importancia tanto económica como social en zonas rurales donde radica gran parte de la pobreza nacional [5]. 
 
-![Texto alternativo]([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen4.png))
-Fuente: Banco mundial
+!([ruta/de/la/imagen](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/imagen4.png))
 
 Fuente: Banco mundial
+
 
 Aunque solo el 36 % de la superficie agrícola (2,6 millones ha) cuenta con riego tecnificado, esta generan cerca de dos terceras partes de la producción agropecuaria total, lo que evidencia la brecha en infraestructura hídrica y su impacto directo en la productividad y resiliencia ante variaciones climáticas [6].
 
