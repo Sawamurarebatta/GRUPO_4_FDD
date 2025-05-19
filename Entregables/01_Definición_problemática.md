@@ -8,6 +8,7 @@ Productores agrícolas y agricultores locales en zonas rurales del VRAEM, espec�
 
 ## ❗ Definición de la problemática  
 Degradación del suelo y disminución de la productividad agrícola en el VRAEM
+
 ![Mapa del VRAEM](../IMAGENES/VRAEM.png)
 
 
