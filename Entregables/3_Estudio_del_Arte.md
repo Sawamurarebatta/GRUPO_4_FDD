@@ -55,7 +55,9 @@ Figura 4: VH400 Monitoreo de sensores de humedad del suelo Beat Plants
 
 El GroPoint™ Lite es un sensor compacto y robusto que mide el contenido volumétrico de agua del suelo de 0 % a 100 % VWC con una precisión de ±2 % y una resolución <0.2 % (en laboratorio) mediante su tecnología de Transmisión en Dominio del Tiempo (TDT⁵). Integra además medición digital de temperatura del suelo, todo alojado en un cuerpo IP68 que minimiza la perturbación de las raíces y resiste al enterramiento prolongado. Ofrece múltiples opciones de salida —SDI-12, RS-485, 0–5 mA o 4–20 mA— para su fácil integración en sistemas IoT, controladores de riego y data loggers, y viene calibrado de fábrica para la mayoría de suelos agrícolas con posibilidad de recalibración en campo[8].
 
-![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
+![Soil sensor](../IMAGENES/sensorsuelo.jpg)
+
+Figura 5: Sensor de humedad y temperatura del suelo
 
   ### 2.2.3 TEROS 21-Sensor de potencial hídrico del suelo
 El TEROS 21 de METER Group es un sensor de succión del suelo que emplea un núcleo poroso para equilibrar su humedad con la del terreno y, a través de un pequeño sensor capacitivo, calcula el potencial matricial sin necesidad de partes móviles ni recalibración en campo . Su electrónica interna ajusta automáticamente las variaciones de temperatura y mantiene la señal estable a lo largo del tiempo, mientras que la salida SDI-12 permite una conexión sencilla a registradores de datos y sistemas SCADA[9].
