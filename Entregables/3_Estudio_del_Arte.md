@@ -62,10 +62,29 @@ Figura 5: Sensor de humedad y temperatura del suelo
   ### 2.2.3 TEROS 21-Sensor de potencial hídrico del suelo
 El TEROS 21 de METER Group es un sensor de succión del suelo que emplea un núcleo poroso para equilibrar su humedad con la del terreno y, a través de un pequeño sensor capacitivo, calcula el potencial matricial sin necesidad de partes móviles ni recalibración en campo . Su electrónica interna ajusta automáticamente las variaciones de temperatura y mantiene la señal estable a lo largo del tiempo, mientras que la salida SDI-12 permite una conexión sencilla a registradores de datos y sistemas SCADA[9].
 
-![Soil sensor](../IMAGENES/TEROS_21.jpg.jpg)
+![Teros](../IMAGENES/teros.jpg)
 
+Figura 6: El sensor de potencial matricial TEROS 21
 
+## Referencias
 
+1. **Foysal, F. M.**, **Mondal, S.**, **Riyad, T.**, **Sikder, S.**, **Hasan, J.**, **Amir, M. A.**, **Mishu, S. S.**, & **Rahman, M. S.** (2025). _Scalable IoT-Based Smart Plant Monitoring and Control System for Sustainable Agriculture._ Journal of Engineering Research and Reports, **27**(1), 16–32. [https://doi.org/10.9734/jerr/2025/v27i11365](https://doi.org/10.9734/jerr/2025/v27i11365)
+
+2. **Khanal, K.**, **Ojha, G.**, **Chataut, S.**, & **Ghimire, U.** (2024). _IoT-Based Real-Time Soil Health Monitoring System for Precision Agriculture._ International Journal of Sensor Networks, **11**, 470–478. [https://www.researchgate.net/publication/382295328_IoT-Based_Real-Time_Soil_Health_Monitoring_System_for_Precision_Agriculture](https://www.researchgate.net/publication/382295328_IoT-Based_Real-Time_Soil_Health_Monitoring_System_for_Precision_Agriculture)
+
+3. **Comegna, A.**, **Hassan, S. B. M.**, & **Coppola, A.** (2024). _Development and Application of an IoT-Based System for Soil Water Status Monitoring in a Soil Profile._ Sensors, **24**(9), 2725. [https://doi.org/10.3390/s24092725](https://doi.org/10.3390/s24092725)
+
+4. **Runge, T. H.**, **Hill, J. L.**, & **Zimmerman, J.** (2015). _Soil moisture sensor._ US Patent Application Publication **US2015/0181817 A1**, July 2, 2015. [https://patents.google.com/patent/US20150181817A1/en](https://patents.google.com/patent/US20150181817A1/en)
+
+5. **Kumaran, H. H.**, & **Tomar, V.** (2015). _Soil moisture sensor._ US Patent Application Publication **US2015/0330932 A1**, November 19, 2015. [https://patents.google.com/patent/US20150330932A1/en](https://patents.google.com/patent/US20150330932A1/en)
+
+6. **Lock, G.** (2011). _Moisture content sensor and related methods._ US Patent **US7,944,220 B2**, May 17, 2011. [https://patents.google.com/patent/US7944220B2/en](https://patents.google.com/patent/US7944220B2/en)
+
+7. **Vegetronix LLC.** (s. f.). _VH400 Soil Moisture Sensor._ Vegetronix. [https://vegetronix.com/soil-moisture-sensor](https://vegetronix.com/soil-moisture-sensor)
+
+8. **GroPoint Technologies.** (s. f.). _GroPoint™ Lite Soil Moisture and Temperature Sensor._ [https://www.gropoint.com/products/soil-sensors/gropoint-lite](https://www.gropoint.com/products/soil-sensors/gropoint-lite)
+
+9. **METER Group.** (s. f.). _TEROS 21 Soil Water Potential Sensor._ [https://metergroup.com/products/teros-21/](https://metergroup.com/products/teros-21/)
 
  
 
