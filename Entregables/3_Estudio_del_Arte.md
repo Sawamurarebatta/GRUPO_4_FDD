@@ -68,8 +68,10 @@ Figura 6: El sensor de potencial matricial TEROS 21
 
 ### Referencias 
 [1] Foysal, Farhan Masud, Shuvra Mondal, Tarifuzzaman Riyad, Shahin Sikder, Jahid Hasan, Md. Asif Amir, Suborna Sharmin Mishu, and Md Sayedur Rahman. 2025. “Scalable IoT-Based Smart Plant Monitoring and Control System for Sustainable Agriculture”. Journal of Engineering Research and Reports 27 (1):16-32. https://doi.org/10.9734/jerr/2025/v27i11365.
+
 [2] Khanal, Kapalik & Ojha, Grishma & Chataut, Sandeep & Ghimire, Umesh. (2024). IoT-Based Real-Time Soil Health Monitoring System for Precision Agriculture. 11. 470-478. 
 https://www.researchgate.net/publication/382295328_IoT-Based_Real-Time_Soil_Health_Monitoring_System_for_Precision_Agriculture
+
 [3] Comegna, A., Hassan, S. B. M., & Coppola, A. (2024). Development and Application of an IoT-Based System for Soil Water Status Monitoring in a Soil Profile. Sensors, 24(9), 2725. https://doi.org/10.3390/s24092725
 
 
