@@ -46,7 +46,9 @@ Figura 3: Moisture content sensor and related methods
 
 El sensor capacitivo de Vegetronix (VH400) mide el contenido volumétrico de agua en el suelo de 0 % a 100 % VWC con una resolución de aproximadamente ±1 %. Su cuerpo de ABS y fibra de vidrio es totalmente resistente a la corrosión y puede enterrarse a cualquier profundidad sin dañarse. Gracias a su diseño compacto y a la delgada geometría de la cuchilla, minimiza la perturbación de las raíces y ofrece una respuesta prácticamente instantánea. La salida analógica de 0–3 V permite integrarlo fácilmente en sistemas IoT, controladores de riego comerciales o cualquier data logger capaz de leer voltajes[7].
 
-![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
+![Vegetronix VH400 ](../IMAGENES/VH400-InSoil.jpg)
+
+Figura 4: VH400 Soil Moisture Sensor Monitoring Beat Plants
 
  ### 2.2.2 Acclima TDR-315H True TDR Soil Moisture Sensor
 
