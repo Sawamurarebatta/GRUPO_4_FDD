@@ -28,5 +28,19 @@ Esta patente detalla un sensor capacitivo que utiliza un circuito RLC integrado 
  
 El sensor descrito en el documento US 7944220 B2 funciona mediante la medición de la variación de resistencia eléctrica en un material poroso, lo que permite determinar con precisión el potencial matricial del suelo. Su diseño incorpora un transductor de resistencia encapsulado que responde a cambios de humedad en un medio de arcilla o gel, ofreciendo una resolución de ±2 centibares en el rango de 0 a –1 bar y ±5 centibares en –1 a –10 bar. Al carecer de componentes mecánicos móviles y emplear un encapsulado resistente a la corrosión, este sensor garantiza tiempos de respuesta inferiores a 30 s, mínima deriva de señal a lo largo del tiempo y una vida útil prolongada en condiciones agrícolas exigentes. Su salida analógica de resistencia puede integrarse directamente en sistemas de registro de datos y control de riego automático[6].
 
+## 2.2 PRODUCTO COMERCIAL
+ ### 2.2.1 Vegetronix VH400
+
+Sonda capacitiva de humedad volumétrica (0–100 % VWC) con alta resolución (±1 %), cuerpo resistente a la corrosión y diseño compacto. Se integra mediante interfaz analógica en sistemas IoT o controladores de riego comerciales[7].
+
+ ### 2.2.2 Acclima TDR-315H True TDR Soil Moisture Sensor
+
+El TDR-315H utiliza la técnica de Reflectometría en Dominio del Tiempo (TDR) para enviar pulsos de alta frecuencia a través de dos varillas conductoras y medir el tiempo de retorno, calculando con alta exactitud la humedad volumétrica (±1 % VWC). Su electrónica interna corrige automáticamente las variaciones de temperatura y conductividad del suelo, y dispone de carcasa de ABS reforzado con fibra para resistencia UV y a químicos. Ofrece salidas RS-485 (Modbus RTU) y SDI-12, facilitando la integración en redes SCADA, estaciones meteorológicas y microcontroladores. Incluye software de diagnóstico y calibración que permite ajustar parámetros en campo, y su rango operativo se extiende de –40 °C a 70 °C[8].
+
+  ### 2.2.3 Watermark 200SS Soil Moisture Sensor
+
+El HydraProbe® de Stevens Water Monitoring Systems es una sonda multiparámetro que mide simultáneamente el contenido volumétrico de agua (θ) mediante Reflectometría en Dominio de Frecuencia y el potencial matricial (h) con un tensiómetro poroso. Además, integra sensores de conductividad eléctrica (EC) y temperatura para compensar las lecturas en tiempo real. Su carcasa de acero inoxidable y polímero resistente permite instalación permanente en profundidades modulables de 10 a 100 cm. La electrónica de 24 bits ofrece baja deriva (< 0.1 % anual) y consumo reducido (< 0.5 W), con salidas SDI-12 y RS-485. Puede integrarse con gateways LoRaWAN o NB-IoT y se acompaña del software AquaView™ para calibración remota, análisis de curvas θ(h) y generación de informes de trazabilidad. Diseñada para agricultura de precisión y gestión hídrica profesional, combina robustez, exactitud y facilidad de integración[9].
+
+
 
 
