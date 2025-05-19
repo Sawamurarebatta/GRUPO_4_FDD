@@ -1,4 +1,4 @@
-# CONTEXTO CIENTÍFICO
+# 1. CONTEXTO CIENTÍFICO
 ### Artículo 1
  #### "Scalable IoT-based Smart Plant Monitoring and Control System for Sustainable Agriculture"
  
@@ -14,4 +14,9 @@ En este trabajo, los investigadores presentan un dispositivo compacto basado en 
 
 Comegna et al. (2024) presentan SHYPROM, un sistema IoT de monitoreo del estado hídrico del suelo diseñado tanto para laboratorio como para campo. El prototipo emplea un microcontrolador ESP32-SIM800L con convertidores ADC de 12 bits que alimentan tres pares de electrodos capacitivos de acero inoxidable y dos transductores de presión MPX5100DP acoplados a tensiómetros porosos. Cada 30 min el dispositivo mide simultáneamente el contenido volumétrico de agua (θ) y el potencial matricial (h) en distintas profundidades, y calcula la curva de conductividad hidráulica K(θ) mediante el método de perfil instantáneo, alcanzando una correlación R² = 0.92 frente a equipos de laboratorio. La plataforma transmite los datos en tiempo real a ThingSpeak vía GSM/Wi-Fi, almacena una copia local en tarjeta SD y dispone de una app Android para visualización y alertas. SHYPROM demostró alta fiabilidad (> 30 días) y un costo por unidad inferior a USD 100[3].
 
+# 2. CONTEXTO COMERCIAL
+## 2.1 PATENTES
+ ### US 20150181817A1 – Soil Moisture Sensor
+ 
+Este invento define un sensor inalámbrico con cuerpo plano, dos electrodos inferiores y “barbillas” de anclaje que mide humedad, salinidad y temperatura. Transmite lecturas a un receptor que interrumpe el ciclo de riego al alcanzar un umbral predefinido, mejorando el ahorro de agua y reduciendo la deriva de calibración[4].
 
