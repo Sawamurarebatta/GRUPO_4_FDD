@@ -62,9 +62,7 @@ Figura 5: Sensor de humedad y temperatura del suelo
   ### 2.2.3 TEROS 21-Sensor de potencial hídrico del suelo
 El TEROS 21 de METER Group es un sensor de succión del suelo que emplea un núcleo poroso para equilibrar su humedad con la del terreno y, a través de un pequeño sensor capacitivo, calcula el potencial matricial sin necesidad de partes móviles ni recalibración en campo . Su electrónica interna ajusta automáticamente las variaciones de temperatura y mantiene la señal estable a lo largo del tiempo, mientras que la salida SDI-12 permite una conexión sencilla a registradores de datos y sistemas SCADA[9].
 
-![TEROS_21](../IMAGENES/TEROS_21.jpg)
 
-Figura 6: El sensor de potencial matricial TEROS 21
 
  
 
