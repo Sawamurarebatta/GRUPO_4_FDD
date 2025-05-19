@@ -29,6 +29,10 @@ Este invento define un sensor inalámbrico con cuerpo plano, dos electrodos infe
 
 El sensor descrito en la publicación US 2015/0330932 A1 utiliza una sonda capacitiva enterrada en el suelo cuya capacitancia, directamente influida por la humedad, se excita con un circuito en serie RLC sintonizado entre 100 y 300 kHz para maximizar la relación señal-ruido. La corriente resultante de la sonda se convierte en voltaje mediante un módulo I–V y, a continuación, un microcontrolador genera la señal PWM de excitación y digitaliza la medida con su ADC integrado, procesando así la información de humedad en tiempo real. Gracias a su diseño modular, todos los componentes pueden montarse en una única unidad compacta o separarse en un módulo de campo y otro de procesamiento, comunicándose mediante interfaces cableadas o inalámbricas, lo que facilita su instalación y transporte en aplicaciones agrícolas de campo[5].
 
+![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
+
+Figura 2: Capacitive Soil Moisture Sensor
+ 
  ### 2.1.3 US 7944220 B2-Moisture content sensor and related methods
  
 El sensor descrito en la patente US 7,944,220 B2 emplea un bloque poroso de arcilla o gel que, al absorber agua del suelo, modifica la resistencia de un transductor encapsulado. Esa variación de resistencia se traduce en un voltaje proporcional, lo que permite medir con precisión el contenido de humedad y controlar sistemas de riego de forma automática . Al no contar con piezas móviles, el dispositivo responde en menos de 30 s y mantiene una señal estable a lo largo del tiempo. Además, su encapsulado resistente a la corrosión le confiere una larga vida útil incluso en condiciones agrícolas exigentes[6].
