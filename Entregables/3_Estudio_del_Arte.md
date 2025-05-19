@@ -22,7 +22,7 @@ Este invento define un sensor inalámbrico con cuerpo plano, dos electrodos infe
 
  ![Soil moisture sensor](../IMAGENES/Soil_moisture_sensor.png)
  
- Figura 1: Soil Moisture Sensor
+ Figura 1: Sensor de humedad del suelo
                                              
 
  ### 2.1.2 US 2015/0330932 A1 – Sensor capacitivo de humedad del suelo
@@ -31,7 +31,8 @@ El sensor descrito en la publicación US 2015/0330932 A1 utiliza una sonda capac
 
 ![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
 
-Figura 2: Capacitive Soil Moisture Sensor
+Figura 2: Sensor capacitivo de humedad del suelo
+
  
  ### 2.1.3 US 7944220 B2-Sensor de contenido de humedad y métodos relacionados
  
@@ -39,7 +40,7 @@ El sensor descrito en la patente US 7,944,220 B2 emplea un bloque poroso de arci
 
 ![Moisture_content_sensor_and_related_methods](../IMAGENES/Moisture_content_sensor_and_related_methods.png)
 
-Figura 3: Moisture content sensor and related methods
+Figura 3: Sensor de contenido de humedad y métodos relacionados
 
 ## 2.2 PRODUCTO COMERCIAL
  ### 2.2.1 Vegetronix VH400
@@ -48,7 +49,7 @@ El sensor capacitivo de Vegetronix (VH400) mide el contenido volumétrico de agu
 
 ![Vegetronix VH400 ](../IMAGENES/VH400-InSoil.jpg)
 
-Figura 4: VH400 Soil Moisture Sensor Monitoring Beat Plants
+Figura 4: VH400 Monitoreo de sensores de humedad del suelo Beat Plants
 
  ### 2.2.2 Sensor de humedad del suelo analógico o digital preciso y confiable
 
@@ -56,7 +57,7 @@ El GroPoint™ Lite es un sensor compacto y robusto que mide el contenido volum�
 
 ![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
 
-  ### 2.2.3 Watermark 200SS Soil Moisture Sensor
+  ### 2.2.3 Sensor de humedad del suelo Watermark 200SS
 
 El HydraProbe® de Stevens Water Monitoring Systems es una sonda multiparámetro que mide simultáneamente el contenido volumétrico de agua (θ) mediante Reflectometría en Dominio de Frecuencia y el potencial matricial (h) con un tensiómetro poroso. Además, integra sensores de conductividad eléctrica (EC) y temperatura para compensar las lecturas en tiempo real. Su carcasa de acero inoxidable y polímero resistente permite instalación permanente en profundidades modulables de 10 a 100 cm. La electrónica de 24 bits ofrece baja deriva (< 0.1 % anual) y consumo reducido (< 0.5 W), con salidas SDI-12 y RS-485. Puede integrarse con gateways LoRaWAN o NB-IoT y se acompaña del software AquaView™ para calibración remota, análisis de curvas θ(h) y generación de informes de trazabilidad. Diseñada para agricultura de precisión y gestión hídrica profesional, combina robustez, exactitud y facilidad de integración[9].
 
