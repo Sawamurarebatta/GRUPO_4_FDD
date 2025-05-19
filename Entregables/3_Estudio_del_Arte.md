@@ -20,9 +20,8 @@ Comegna et al. (2024) presentan SHYPROM, un sistema IoT de monitoreo del estado 
  
 Este invento define un sensor inalámbrico con cuerpo plano, dos electrodos inferiores y “barbillas” de anclaje que mide humedad, salinidad y temperatura. Transmite lecturas a un receptor que interrumpe el ciclo de riego al alcanzar un umbral predefinido, mejorando el ahorro de agua y reduciendo la deriva de calibración[4].
 
- 
-                                 ![Soil moisture sensor](../IMAGENES/Soil_moisture_sensor.png)
-                                 fuente: 
+ ![Soil moisture sensor](../IMAGENES/Soil_moisture_sensor.png)
+ Figura 1: Soil Moisture Sensor
                                              
 
  ### 2.1.2 US 2015/0330932 A1 – Capacitive Soil Moisture Sensor
