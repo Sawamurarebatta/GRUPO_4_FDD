@@ -57,9 +57,8 @@ El GroPoint™ Lite es un sensor compacto y robusto que mide el contenido volum�
 
 ![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
 
-  ### 2.2.3 Sensor de humedad del suelo Watermark 200SS
-
-El HydraProbe® de Stevens Water Monitoring Systems es una sonda multiparámetro que mide simultáneamente el contenido volumétrico de agua (θ) mediante Reflectometría en Dominio de Frecuencia y el potencial matricial (h) con un tensiómetro poroso. Además, integra sensores de conductividad eléctrica (EC) y temperatura para compensar las lecturas en tiempo real. Su carcasa de acero inoxidable y polímero resistente permite instalación permanente en profundidades modulables de 10 a 100 cm. La electrónica de 24 bits ofrece baja deriva (< 0.1 % anual) y consumo reducido (< 0.5 W), con salidas SDI-12 y RS-485. Puede integrarse con gateways LoRaWAN o NB-IoT y se acompaña del software AquaView™ para calibración remota, análisis de curvas θ(h) y generación de informes de trazabilidad. Diseñada para agricultura de precisión y gestión hídrica profesional, combina robustez, exactitud y facilidad de integración[9].
+  ### 2.2.3 TEROS 21-Sensor de potencial hídrico del suelo
+El TEROS 21 de METER Group es un sensor de succión del suelo que emplea un núcleo poroso para equilibrar su humedad con la del terreno y, a través de un pequeño sensor capacitivo, calcula el potencial matricial sin necesidad de partes móviles ni recalibración en campo . Su electrónica interna ajusta automáticamente las variaciones de temperatura y mantiene la señal estable a lo largo del tiempo, mientras que la salida SDI-12 permite una conexión sencilla a registradores de datos y sistemas SCADA[9].
 
 ![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
 
