@@ -38,7 +38,7 @@ Figura 2: Sensor capacitivo de humedad del suelo
  
 El sensor descrito en la patente US 7,944,220 B2 emplea un bloque poroso de arcilla o gel que, al absorber agua del suelo, modifica la resistencia de un transductor encapsulado. Esa variación de resistencia se traduce en un voltaje proporcional, lo que permite medir con precisión el contenido de humedad y controlar sistemas de riego de forma automática . Al no contar con piezas móviles, el dispositivo responde en menos de 30 s y mantiene una señal estable a lo largo del tiempo. Además, su encapsulado resistente a la corrosión le confiere una larga vida útil incluso en condiciones agrícolas exigentes[6].
 
-![Moisture_content_sensor_and_related_methods](../IMAGENES/Moisture_content_sensor_and_related_methods.png)
+![Moisture_content_sensor_and_related_methods](../IMAGENES/Moisture_content.png)
 
 Figura 3: Sensor de contenido de humedad y métodos relacionados
 
