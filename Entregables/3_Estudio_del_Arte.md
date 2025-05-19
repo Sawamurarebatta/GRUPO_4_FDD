@@ -50,9 +50,9 @@ El sensor capacitivo de Vegetronix (VH400) mide el contenido volumétrico de agu
 
 Figura 4: VH400 Soil Moisture Sensor Monitoring Beat Plants
 
- ### 2.2.2 Acclima TDR-315H True TDR Soil Moisture Sensor
+ ### 2.2.2 Sensor de humedad del suelo analógico o digital preciso y confiable
 
-El TDR-315H utiliza la técnica de Reflectometría en Dominio del Tiempo (TDR) para enviar pulsos de alta frecuencia a través de dos varillas conductoras y medir el tiempo de retorno, calculando con alta exactitud la humedad volumétrica (±1 % VWC). Su electrónica interna corrige automáticamente las variaciones de temperatura y conductividad del suelo, y dispone de carcasa de ABS reforzado con fibra para resistencia UV y a químicos. Ofrece salidas RS-485 (Modbus RTU) y SDI-12, facilitando la integración en redes SCADA, estaciones meteorológicas y microcontroladores. Incluye software de diagnóstico y calibración que permite ajustar parámetros en campo, y su rango operativo se extiende de –40 °C a 70 °C[8].
+El GroPoint™ Lite es un sensor compacto y robusto que mide el contenido volumétrico de agua del suelo de 0 % a 100 % VWC con una precisión de ±2 % y una resolución <0.2 % (en laboratorio) mediante su tecnología de Transmisión en Dominio del Tiempo (TDT⁵). Integra además medición digital de temperatura del suelo, todo alojado en un cuerpo IP68 que minimiza la perturbación de las raíces y resiste al enterramiento prolongado. Ofrece múltiples opciones de salida —SDI-12, RS-485, 0–5 mA o 4–20 mA— para su fácil integración en sistemas IoT, controladores de riego y data loggers, y viene calibrado de fábrica para la mayoría de suelos agrícolas con posibilidad de recalibración en campo[8].
 
 ![Soil moisture sensor](../IMAGENES/Tomar_V._Soil_moisture_sensor.png)
 
