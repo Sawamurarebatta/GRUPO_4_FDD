@@ -19,7 +19,7 @@ Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ## Mapa de empatía
 
-![Mapa de empatía](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/presentacion%20de%20notas%20de%20papel%20juvenil%20rosado.png)
+![Mapa de empatía](../https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/presentacion%20de%20notas%20de%20papel%20juvenil%20rosado.png)
 
 
 
@@ -35,7 +35,7 @@ Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ## Journal Map
 
-![Mapa_viajero](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa.png)
+![Mapa_viajero](../https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa.png)
 
 ### Referencias del Journal Map
 
@@ -46,7 +46,7 @@ Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ## Diagrama de causa y efecto
 
-![causa](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/2.png)
+![causa](../https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/2.png)
 
 ### Referencias del diagrama de causa y efecto
 
