@@ -35,7 +35,7 @@ Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ## Journal Map
 
-![Mapa_viajero](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa_viajero.png)
+![Mapa_viajero](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/mapa.png)
 
 ### Referencias del Journal Map
 
