@@ -184,8 +184,6 @@ Estas condiciones se tendrán en cuenta para la selección adecuada de sensores,
 </tr>
   </tbody>
 </table>
-<style>
-  .bibliografia {
 <section class="bibliografia">
   <h2>Bibliografía</h2>
   <ol>
