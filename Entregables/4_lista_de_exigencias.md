@@ -127,7 +127,7 @@
   <td>14/05/25</td>
   <td>E</td>
   <td>Seguridad de los datos:<br>
-  El sistema destinado a la evaluación de suelos debe garantizar la fiabilidad y precisión de los datos generados, asegurando que reflejen de manera veraz las condiciones reales del suelo. Esto es esencial para una gestión agrícola eficiente y sostenible. La FAO destaca que la calidad, oportunidad y fiabilidad de los datos son fundamentales para la toma de decisiones en el desarrollo agrícola [6]. Asimismo, el Departamento de Agricultura de los Estados Unidos (USDA) enfatiza la importancia de evaluar propiedades físicas, químicas y biológicas del suelo mediante datos precisos y consistentes [7]. Por lo tanto, los sistemas de evaluación de suelos deben incorporar mecanismos que aseguren la integridad, exactitud y coherencia de los datos recopilados, alineándose con estas directrices internacionales.</td>
+  El sistema destinado a la evaluación de suelos debe garantizar la fiabilidad y precisión de los datos generados, asegurando que reflejen de manera veraz las condiciones reales del suelo. Esto es esencial para una gestión agrícola eficiente y sostenible. La FAO destaca que la calidad, oportunidad y fiabilidad de los datos son fundamentales para la toma de decisiones en el desarrollo agrícola (6). Asimismo, el Departamento de Agricultura de los Estados Unidos (USDA) enfatiza la importancia de evaluar propiedades físicas, químicas y biológicas del suelo mediante datos precisos y consistentes (7). Por lo tanto, los sistemas de evaluación de suelos deben incorporar mecanismos que aseguren la integridad, exactitud y coherencia de los datos recopilados, alineándose con estas directrices internacionales.</td>
   <td>J.R.</td>
 </tr>
 <tr>
