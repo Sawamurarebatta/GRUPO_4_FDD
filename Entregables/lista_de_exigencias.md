@@ -186,37 +186,6 @@ Estas condiciones se tendrán en cuenta para la selección adecuada de sensores,
 </table>
 <style>
   .bibliografia {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 15px;
-    background:rgb(81, 81, 81);
-    border: 1px solid #ddd;
-    border-radius: 8px;
-  }
-  .bibliografia h2 {
-    text-align: center;
-    color: white;
-    margin-bottom: 15px;
-  }
-  .bibliografia ol {
-    padding-left: 20px;
-  }
-  .bibliografia li {
-    margin-bottom: 12px;
-    line-height: 1.5;
-    font-size: 14px;
-    color: white;
-  }
-  .bibliografia a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  .bibliografia a:hover {
-    text-decoration: underline;
-  }
-</style>
-
 <section class="bibliografia">
   <h2>Bibliografía</h2>
   <ol>
