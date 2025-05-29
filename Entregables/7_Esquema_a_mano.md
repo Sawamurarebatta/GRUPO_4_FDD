@@ -13,7 +13,7 @@ un microcontrolador Arduino y una batería de respaldo. Para su operación, util
 
 ### Esquema 3
 ### Descripción del funcionamiento-C3
-El panel solar esta Fuera del equipo y del Arduino. Tres cables de longitud precisa permiten introducir los sensores de humedad, pH y temperatura varios centímetros bajo tierra sin mover la unidad principal. El software interno ejecuta muestreos automáticos, aplica promedios para descartar lecturas atípicas y usa conectividad inalámbrica para enviar los resultados a la plataforma móvil.
+El panel solar esta Fuera del equipo y del ESP32. Tres cables de longitud precisa permiten introducir los sensores de humedad, pH y temperatura varios centímetros bajo tierra sin mover la unidad principal. El software interno ejecuta muestreos automáticos, aplica promedios para descartar lecturas atípicas y usa conectividad inalámbrica para enviar los resultados a la plataforma móvil.
 
 
 ![Caja Negra](../IMAGENES/6.jpg)
