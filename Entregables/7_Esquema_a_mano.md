@@ -17,3 +17,5 @@ El panel solar esta Fuera del equipo y del ESP32. Tres cables de longitud precis
 
 
 ![Caja Negra](../IMAGENES/6.jpg)
+
+Link: https://www.canva.com/design/DAGniHT5RHw/FZqDMqbeAxVe3l696WLT1g/edit?utm_content=DAGniHT5RHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
