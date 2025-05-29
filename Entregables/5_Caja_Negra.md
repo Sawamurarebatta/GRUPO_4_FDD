@@ -1,2 +1,2 @@
 ## CAJA NEGRA
-![Teros](../IMAGENES/teros.jpg)
+![Caja Negra](../IMAGENES/1.png)
