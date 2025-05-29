@@ -65,7 +65,7 @@
     <tr>
       <td>14/05/25</td>
       <td>E</td>
-      <td>Fuerzas: El sistema debe poder insertarse en suelos compactos sin necesidad de maquinaria pesada. (Falta agregar presión del suelo)</td>
+      <td>Fuerzas: El sistema debe poder insertarse en suelos compactos sin necesidad de maquinaria pesada. </td>
       <td>J.R.</td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@
 </tr>
 <tr>
   <td>14/05/25</td>
-  <td>D</td>
+  <td>E</td>
   <td>Uso: Se contempla que el uso del sistema de monitoreo de suelos podrá darse bajo diversas condiciones ambientales propias de las zonas cafetaleras del Perú. Como referencia, se considerarán altitudes máximas de hasta 1,800 m.s.n.m, correspondientes al rango óptimo de cultivo del café arábigo en regiones como el VRAEM, donde también se presentan temperaturas promedio entre 18 °C y 24 °C, alta humedad relativa y precipitaciones anuales que superan los 2,000 mm (Instituto Nacional de Innovación Agraria - INIA, 2022).
 Estas condiciones se tendrán en cuenta para la selección adecuada de sensores, materiales, encapsulados y componentes electrónicos (10).</td>
   <td>M.A.</td>
