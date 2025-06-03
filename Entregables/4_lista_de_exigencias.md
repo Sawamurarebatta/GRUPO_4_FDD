@@ -40,7 +40,7 @@
       <td>14/05/25</td>
       <td>E</td>
       <td>Función Principal:(editar) Monitorear de forma continua y remota las condiciones del suelo (humedad, temperatura y salinidad) a diferentes profundidades de forma precisa, para apoyar decisiones en agricultura inteligente y gestión eficiente del riego.</td>
-      <td>C.Y.</td>
+      <td>Y.C.</td>
     </tr>
     <tr>
       <td>14/05/25</td>
