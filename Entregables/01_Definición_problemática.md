@@ -19,7 +19,7 @@ Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ## Mapa de empatía
 
-![Mapa de empatía](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/presentacion%20de%20notas%20de%20papel%20juvenil%20rosado.png)
+![Mapa de empatía](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/verdeoscuro.png)
 
 
 
