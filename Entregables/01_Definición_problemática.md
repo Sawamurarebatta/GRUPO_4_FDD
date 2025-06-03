@@ -7,7 +7,7 @@
 Productores agrícolas y agricultores locales en zonas rurales del VRAEM, específicamente pequeños y medianos agricultores que cultivan productos como café, cacao, frutas y hortalizas.(Editar esta parte enfocar en un cultivo )
 
 
-### ❗ Definición de la problemática  
+# ❗ Definición de la problemática  
 # Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ![Mapa del VRAEM](../IMAGENES/VRAEM.png)
