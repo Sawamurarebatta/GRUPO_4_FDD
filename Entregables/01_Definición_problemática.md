@@ -4,10 +4,11 @@
 *"Para 2030, asegurar la sostenibilidad de los sistemas de producción de alimentos y aplicar prácticas agrícolas resilientes que aumenten la productividad y la producción, contribuyan al mantenimiento de los ecosistemas, fortalezcan la capacidad de adaptación al cambio climático, a fenómenos meteorológicos extremos, sequías, inundaciones y otros desastres..."*
 
 **👥 Usuario objetivo:**  
-Productores agrícolas y agricultores locales en zonas rurales del VRAEM, específicamente pequeños y medianos agricultores que cultivan productos como café, cacao, frutas y hortalizas.
+Productores agrícolas y agricultores locales en zonas rurales del VRAEM, específicamente pequeños y medianos agricultores que cultivan productos como café, cacao, frutas y hortalizas.(Editar esta parte enfocar en un cultivo )
 
-## ❗ Definición de la problemática  
-Degradación del suelo y disminución de la productividad agrícola en el VRAEM
+
+### ❗ Definición de la problemática  
+# Degradación del suelo y disminución de la productividad agrícola en el VRAEM
 
 ![Mapa del VRAEM](../IMAGENES/VRAEM.png)
 
