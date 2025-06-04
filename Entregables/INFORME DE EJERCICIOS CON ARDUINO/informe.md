@@ -1,24 +1,41 @@
 ![logo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/Entregables/INFORME%20DE%20EJERCICIOS%20CON%20ARDUINO/imagenes_informe/1.png)
   
   
-*FACULTAD DE CIENCIAS E INGENIERÍA
+**FACULTAD DE CIENCIAS E INGENIERÍA
+
+![arduino](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/Entregables/INFORME%20DE%20EJERCICIOS%20CON%20ARDUINO/imagenes_informe/2.png)
 
 
 *INFORME DE EJERCICIOS CON ARDUINO Y COMPONENTES ELECTRÓNICOS BÁSICOS
-CURSO:
- FUNDAMENTOS DE DISEÑO
+
+
+
+**CURSO:
+
+
+FUNDAMENTOS DE DISEÑO
+
+
+
 Integrantes:
+
 ·   	Cosme Pérez Yosselin Lizeth
+
 ·   	Rebatta Jeri Patricia Del Pilar
+
 ·   	Michael Geser Andrés
-LIMA – PERÚ
-2025– I
+
+
 
 EJERCICIOS CON COMPONENTES ELECTRÓNICOS BÁSICOS
+
 Ejemplo 1 (motor direccion basica)
 
 En este primer ejemplo hicimos el control de dirección de un motorreductor GA12-N20 utilizando un módulo L298N y una placa Arduino UNO. El objetivo fue invertir el sentido de giro del motor cada 5 segundos. Para esto, conectamos los pines IN1 e IN2 del L298N a los pines digitales del Arduino (D4 y D5), y habilitamos el pin ENA con un jumper para mantener el motor activo. No se controló la velocidad, solo la dirección. Este ejercicio nos ayudó a entender cómo usar un controlador L298N para manejar motores DC en proyectos.
-Materiales
+
+
+
+**Materiales
 1 motorreductor GA12-N20 (6 V)
 
 
@@ -43,6 +60,8 @@ Cables Dupont (macho-macho o macho-hembra)
 Software Arduino IDE
 
 Evidencia:
+![evidencia_1](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/Entregables/INFORME%20DE%20EJERCICIOS%20CON%20ARDUINO/imagenes_informe/3.jpg)
+
 
 
 
