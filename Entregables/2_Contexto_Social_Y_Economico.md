@@ -5,7 +5,7 @@
 **USUARIO**: Productores agrícolas y agricultores locales en zonas rurales del VRAEM, específicamente pequeños y medianos agricultores que cultivan productos como café, cacao, frutas, y hortalizas.
 
 ### Planteamiento de la Problemática
-La disminución de la productividad agrícola en la región del VRAEM debido a la degradación del suelo, exacerbada por la falta de un monitoreo preciso de las condiciones del suelo.
+Degradación del suelo y disminución de la productividad agrícola en el VRAEM.
 
 ## DESCRIPCIÓN DEL CONTEXTO SOCIAL
 
