@@ -9,8 +9,10 @@ Productores agrícolas y agricultores locales en zonas rurales del VRAEM, espec�
 
 # ❗ Definición de la problemática  
 # Degradación del suelo y disminución de la productividad agrícola en el VRAEM
-### El VRAEM enfrenta un serio desafío de degradación de suelos y consecuente disminución de la productividad agrícola. Cerca del 65 % de sus habitantes vive en situación de pobreza, con más de un 25 % en pobreza extrema, dependiendo principalmente de parcelas familiares para el cultivo de café, cacao, frutas y hortalizas [1]. Sin embargo, la economía regional se apoya en más del 80 % del valor agrícola en hoja de coca, cacao y café, lo que limita la diversificación productiva y el desarrollo de actividades industriales locales [2].
+###  El VRAEM enfrenta un serio desafío de degradación de suelos y consecuente disminución de la productividad agrícola. Cerca del 65 % de sus habitantes vive en situación de pobreza, con más de un 25 % en pobreza extrema, dependiendo principalmente de parcelas familiares para el cultivo de café, cacao, frutas y hortalizas [1]. Sin embargo, la economía regional se apoya en más del 80 % del valor agrícola en hoja de coca, cacao y café, lo que limita la diversificación productiva y el desarrollo de actividades industriales locales [2].
+
 En esta región, prácticas como la deforestación y el uso intensivo de monocultivos (café, cacao y cultivos ilegales) han erosionado rápidamente los nutrientes y la materia orgánica del suelo, compactándolo y reduciendo su fertilidad [3]. Entre 2019 y 2021, Devida reportó que numerosas hectáreas en distritos como Anco, Anchihuay, Santa Rosa y Llochegua resultaron afectadas por degradación, atribuida al uso excesivo de la tierra y a la aplicación desmedida de agroquímicos [4]. 
+
 
 
 ![Mapa del VRAEM](../IMAGENES/VRAEM.png)
