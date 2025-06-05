@@ -11,6 +11,6 @@
 ![Caja Negra](../IMAGENES/funciones2.png)
 
 ## DEFINICIÓN DE FUNCIONES 1
-![Caja Negra](../IMAGENES/2.png)
+![Caja Negra](../IMAGENES/3.png)
 
  
