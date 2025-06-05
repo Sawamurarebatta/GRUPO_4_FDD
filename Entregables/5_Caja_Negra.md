@@ -1,4 +1,5 @@
 ## CAJA NEGRA
+### Definición de entradas y salidas
 ![Caja Negra](../IMAGENES/1.png)
 
 ## ESQUEMA DE FUNCIONES
