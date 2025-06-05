@@ -20,7 +20,11 @@ En esta región, prácticas como la deforestación y el uso intensivo de monocul
 
 
 
-
+### Referencias 
+1. Ministerio de Defensa del Perú. Lineamientos para el empleo de las Fuerzas Armadas en el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) [Internet]. Lima: Ministerio de Defensa; 2023 [citado 8 may 2025]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/5216553/ANEXO%20RM%20996%20DE.pdf
+2. Ministerio de la Producción del Perú. Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM): Desempeño económico-productivo sectorial e Intervenciones de PRODUCE [Internet]. Lima: Ministerio de la Producción; 2024 [citado 8 may 2025]. Disponible en: https://www.producempresarial.pe/wp-content/uploads/2025/03/299-PPT_VRAEM_OGEIEE_29.04.2024.pdf
+3. Ministerio de Desarrollo Agrario y Riego del Perú. Informe de Evaluación de Continuidad del Programa de Desarrollo Productivo Agrario Rural – AGRORURAL [Internet]. Lima: MIDAGRI; [citado 8 may 2025]. Disponible en: https://repositorio.midagri.gob.pe/bitstream/20.500.13036/1519/1/Informe%20de%20evaluaci%C3%B3n%20Agrorural.pdf
+4. AgroPerú. Recuperan más de 4 mil hectáreas de suelos degradados en el Vraem [Internet]. AgroPerú; 2021 nov 16 [citado 8 may 2025]. Disponible en: https://www.agroperu.pe/recuperan-mas-de-4-mil-hectareas-de-suelos-degradados-en-el-vraem/
 
 ## 🛠️ Herramientas que nos ayudaron a identificar la problemática
 
@@ -55,11 +59,7 @@ En esta región, prácticas como la deforestación y el uso intensivo de monocul
 
 ![causa](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/2.png)
 
-### Referencias 
-1. Ministerio de Defensa del Perú. Lineamientos para el empleo de las Fuerzas Armadas en el Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) [Internet]. Lima: Ministerio de Defensa; 2023 [citado 8 may 2025]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/5216553/ANEXO%20RM%20996%20DE.pdf
-2. Ministerio de la Producción del Perú. Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM): Desempeño económico-productivo sectorial e Intervenciones de PRODUCE [Internet]. Lima: Ministerio de la Producción; 2024 [citado 8 may 2025]. Disponible en: https://www.producempresarial.pe/wp-content/uploads/2025/03/299-PPT_VRAEM_OGEIEE_29.04.2024.pdf
-3. Ministerio de Desarrollo Agrario y Riego del Perú. Informe de Evaluación de Continuidad del Programa de Desarrollo Productivo Agrario Rural – AGRORURAL [Internet]. Lima: MIDAGRI; [citado 8 may 2025]. Disponible en: https://repositorio.midagri.gob.pe/bitstream/20.500.13036/1519/1/Informe%20de%20evaluaci%C3%B3n%20Agrorural.pdf
-4. AgroPerú. Recuperan más de 4 mil hectáreas de suelos degradados en el Vraem [Internet]. AgroPerú; 2021 nov 16 [citado 8 may 2025]. Disponible en: https://www.agroperu.pe/recuperan-mas-de-4-mil-hectareas-de-suelos-degradados-en-el-vraem/
+
 
 
 ### Referencias del diagrama de causa y efecto
