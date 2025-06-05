@@ -57,7 +57,7 @@ En esta región, prácticas como la deforestación y el uso intensivo de monocul
 
 ## Diagrama de causa y efecto
 
-![causa](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/2.png)
+![Mapa del VRAEM](../IMAGENES/causa.png)
 
 
 
