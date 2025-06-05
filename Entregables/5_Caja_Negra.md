@@ -4,11 +4,13 @@
 
 ## Definición de entradas y salidas (Software)
 ![Caja Negra](../IMAGENES/cajanegrasoftware.png)
-## ESQUEMA DE FUNCIONES
-![Caja Negra](../IMAGENES/2.png)
-
-## DEFINICIÓN DE FUNCIONES 1
+## ESQUEMA DE FUNCIONES 1
 ![Caja Negra](../IMAGENES/funciones1.png)
 
-## DEFINICIÓN DE FUNCIONES 2
+## ESQUEMA DE FUNCIONES 2
 ![Caja Negra](../IMAGENES/funciones2.png)
+
+## DEFINICIÓN DE FUNCIONES 1
+![Caja Negra](../IMAGENES/2.png)
+
+ 
