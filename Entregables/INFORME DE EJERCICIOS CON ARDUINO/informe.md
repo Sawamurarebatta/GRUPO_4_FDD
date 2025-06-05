@@ -18,7 +18,7 @@
 ### Integrantes:
 - Cosme Pérez Yosselin Lizeth  
 - Rebatta Jeri Patricia Del Pilar  
-- Michael Geser Andrés  
+- Andres Andres Michael Geser
 
 ---
 
