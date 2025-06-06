@@ -19,7 +19,7 @@
 - Cosme Pérez Yosselin Lizeth  
 - Rebatta Jeri Patricia Del Pilar  
 - Andres Andres Michael Geser
-
+- Roldan Montalvan Jorge Esteban
 ---
 
 ## EJERCICIOS CON COMPONENTES ELECTRÓNICOS BÁSICOS
