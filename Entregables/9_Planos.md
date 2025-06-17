@@ -2,4 +2,4 @@
 
 ## Plano de la caja
 
-![Caja Negra](../IMAGENES/PlanoCaja.pdf)
+![Caja Negra](../PDFs/PlanoCaja.pdf)
