@@ -1,6 +1,6 @@
 ## CAJA NEGRA
 ### Definición de entradas y salidas
-![Caja Negra](../IMAGENES/cajanegra.png)
+![Caja Negra](../IMAGENES/canva1.jpg)
 
 ## Definición de entradas y salidas (Software)
 ![Caja Negra](../IMAGENES/cajanegrasoftware.png)
