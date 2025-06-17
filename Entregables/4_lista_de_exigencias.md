@@ -7,12 +7,12 @@
   </tr>
   <tr>
     <td colspan="4" rowspan="1"></td>
-    <td><strong>Edición:</strong> Rev.1</td>
+    <td><strong>Edición:</strong> Rev.2</td>
   </tr>
   <tr>
     <td><strong>PROYECTO:</strong></td>
-    <td colspan="3">Diseño de sistema para monitoreo de tierras a</td>
-    <td><strong>Fecha:</strong> 15/05/2025</td>
+    <td colspan="3">SoilScope</td>
+    <td><strong>Fecha:</strong> 15/06/2025</td>
   </tr>
   <tr>
     <td><strong>CLIENTE:</strong></td>
@@ -39,7 +39,7 @@
     <tr>
       <td>14/05/25</td>
       <td>E</td>
-      <td>Función Principal:(editar) Monitorear de forma interdiaria y remota las condiciones del suelo (humedad, temperatura y salinidad) a diferentes profundidades de forma precisa, para apoyar decisiones en agricultura inteligente y gestión eficiente del riego.</td>
+      <td>Función Principal:Monitorear de forma intermitente y remota las condiciones del suelo (humedad volumétrica, temperatura y nutrientes NPK) para apoyar la toma de decisiones en riego y fertilización de café (11) </td>
       <td>Y.C.</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
       <td>E</td>
       <td>Geometría: 
         - El sistema estará compuesto por sondas verticales multipunto conectadas a una unidad de transmisión de datos.
-        - Cada módulo sensor deberá ocupar un área no mayor a 0.5 m², con una altura máxima de 1 m (enterrado y forma sobresaliente).
+        - Cada módulo sensor deberá ocupar un área no mayor a 0.3 m², con una altura máxima de 0.8 m (incluye para enterrada) adaptado para no interferir con el crecimiento de raíces en las plantaciones de café.
       </td>
       <td>M.A.</td>
     </tr>
@@ -79,7 +79,7 @@
     <tr>
       <td>14/05/25</td>
       <td>E</td>
-      <td>Materia: Materia de ingreso: Suelo agrícola cultivado, con propiedades físico-químicas variables. El sistema deberá monitorear humedad, nutrientes (NPK) y temperatura del suelo. Se espera que los sensores para monitoreo de suelo tengan una precisión de ±3% para humedad, ±2% para nutrientes NPK y ±0.5 °C para temperatura, garantizando mediciones fiables para un manejo eficiente (3)(4). El material de salida será un registro digital de datos accesible vía aplicación móvil o plataforma web, útil para decisiones agronómicas en riego y fertilización. El sistema agregará valor al integrar funciones de alerta y trazabilidad agronómica (5).</td>
+      <td>Materia: Materia de ingreso: Suelo agrícola cultivado, con propiedades físico-químicas variables. El sistema deberá monitorear humedad, nutrientes (NPK) y temperatura del suelo. Se espera que los sensores para monitoreo de suelo tengan una precisión de ±3% para humedad, ±2% para nutrientes NPK y ±0.5 °C para temperatura (12), garantizando mediciones fiables para un manejo eficiente (3)(4). El material de salida será un registro digital de datos accesible vía aplicación móvil o plataforma web, útil para decisiones agronómicas en riego y fertilización. El sistema agregará valor al integrar funciones de alerta y trazabilidad agronómica (5).</td>
       <td>M.A.</td>
     </tr>
     <tr>
@@ -258,5 +258,3 @@ Estas condiciones se tendrán en cuenta para la selección adecuada de sensores,
     </li>
   </ol>
 </section>
-
- 
