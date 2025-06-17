@@ -45,5 +45,5 @@ El sistema convierte señales analógicas, las almacena y las transmite a una ap
 
 ## 🏆 Elección final: Esquema 3
 
-Se seleccionó el **Esquema 3** por su mayor flexibilidad de instalación, separación del panel solar para mejor eficiencia energética, y su sistema de muestreo con manejo de errores y transmisión inalámbrica eficiente.
+Se seleccionó el **Esquema 3** por su mayor flexibilidad de instalación, separación del panel solar para mejor eficiencia energética, y una manera mejor de colocar los sensores
 
