@@ -1,5 +1,13 @@
 # Planos 
 
-## Plano de la caja
+## Plano de la Caja
 
-![Caja Negra](../PDFs/PlanoCaja.pdf)
+![Planos](../IMAGENES/PlanoCaja.jpg)
+
+## Plano de la Tapa
+
+![Planos](../IMAGENES/PlanoTapa.jpg)
+
+## Plano del Tornillo
+
+![Planos](../IMAGENES/PlanoTornillo.jpg)
