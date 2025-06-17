@@ -1,21 +1,49 @@
-## Esquema a mano alzada
-### Esquema 1
-### Descripción del funcionamiento-C1
-El panel solar permanece en la parte superior de la carcasa, inmerso en un diseño hermético que impide filtraciones, mientras que la etiqueta “Carcasa” se ha reubicado lateralmente para evitar confusiones con los cables de los sensores. Internamente, el microcontrolador recibe la energía generada por el panel y gestiona las lecturas de los tres sensores sumergidos en el suelo
+# 🌱 Sistema de Monitoreo de Suelo con Energía Solar
 
-![Caja Negra](../IMAGENES/7.jpg)
+## ✅ Esquema seleccionado (Esquema 3)
 
-### Esquema 2
-### Descripción del funcionamiento-C2
-un microcontrolador Arduino y una batería de respaldo. Para su operación, utiliza un panel solar montado en la parte superior que provee la energía necesaria y recarga la batería interna. Desde la base de la caja, tres cables flexibles conducen las señales de los sensores de humedad, pH y temperatura bajo la superficie del suelo. El software integrado programado para hacer lecturas cada intervalo definido transforma las señales analógicas en valores numéricos, los almacena y los transmite de manera inalámbrica o mediante cable de datos a una aplicación móvil para su visualización en tiempo real.
+![Esquema 3 - Sistema de monitoreo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/8.png)
 
-![Caja Negra](../IMAGENES/8.jpg)
+### Descripción del funcionamiento – C3
 
-### Esquema 3
-### Descripción del funcionamiento-C3
-El panel solar esta Fuera del equipo y del ESP32. Tres cables de longitud precisa permiten introducir los sensores de humedad, pH y temperatura varios centímetros bajo tierra sin mover la unidad principal. El software interno ejecuta muestreos automáticos, aplica promedios para descartar lecturas atípicas y usa conectividad inalámbrica para enviar los resultados a la plataforma móvil.
+El panel solar se encuentra **fuera del equipo principal**, separado del ESP32 para facilitar el posicionamiento óptimo de captación solar.  
+Tres cables de longitud precisa permiten **insertar los sensores** (humedad, pH y temperatura) a varios centímetros bajo tierra **sin necesidad de mover la unidad central**.  
+El software interno está programado para:
 
+- Ejecutar **muestreos automáticos**.
+- Aplicar **promedios para descartar lecturas atípicas**.
+- Enviar resultados en tiempo real a la **plataforma móvil** mediante **conectividad inalámbrica (Bluetooth)**.
 
-![Caja Negra](../IMAGENES/6.jpg)
+---
 
-Link: https://www.canva.com/design/DAGniHT5RHw/FZqDMqbeAxVe3l696WLT1g/edit?utm_content=DAGniHT5RHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## 🧪 Otros esquemas evaluados
+
+### 🔹 Esquema 1
+
+![Esquema 1](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/6.png)
+
+#### Descripción del funcionamiento – C1
+
+El panel solar está integrado en la parte superior de la carcasa con diseño hermético.  
+El microcontrolador recibe la energía solar y gestiona las lecturas de los tres sensores colocados en el suelo.  
+La etiqueta "Carcasa" se reposicionó lateralmente para evitar confusiones con los cables.
+
+---
+
+### 🔹 Esquema 2
+
+![Esquema 2](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/7.png)
+
+#### Descripción del funcionamiento – C2
+
+Utiliza un microcontrolador Arduino y una batería interna recargable.  
+El panel solar montado en la parte superior recarga la batería.  
+Tres cables conducen señales desde sensores de humedad, pH y temperatura.  
+El sistema convierte señales analógicas, las almacena y las transmite a una app móvil.
+
+---
+
+## 🏆 Elección final: Esquema 3
+
+Se seleccionó el **Esquema 3** por su mayor flexibilidad de instalación, separación del panel solar para mejor eficiencia energética, y su sistema de muestreo con manejo de errores y transmisión inalámbrica eficiente.
+
