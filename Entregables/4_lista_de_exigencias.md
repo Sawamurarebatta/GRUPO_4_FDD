@@ -218,41 +218,49 @@ Estas condiciones se tendrán en cuenta para la selección adecuada de sensores,
     Sin embargo, investigaciones han demostrado que incluso en parcelas pequeñas como aquellas de 30 x 30 metros la variabilidad interna del suelo puede ser significativa. Por ejemplo, en otras investigaciones se evidenció que se requerían múltiples sensores o núcleos para representar adecuadamente las condiciones del suelo en dichas áreas <strong>[2][3]</strong>. En función de estos hallazgos, se recomienda que, en terrenos heterogéneos, la distancia entre sensores no supere los 50 metros, ya que separaciones mayores podrían pasar por alto cambios importantes en la humedad, temperatura o concentración de nutrientes <strong>[2][3]</strong>.
   </p>
 </section>
-
-<section class="bibliografia">
+ <section class="bibliografia">
   <h2>Bibliografía</h2>
   <ol>
-    <li>Ministerio del Ambiente (MINAM). <em>Guía para el muestreo de suelos</em>. Lima: MINAM; 2013. Disponible en: <a href="https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf" target="_blank">https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf</a></li>
-
-    <li>Li J. Sampling soils in a heterogeneous research plot. <em>Journal of Visualized Experiments</em>. 2018;(143). Disponible en: <a href="https://www.jove.com/t/58519/sampling-soils-in-a-heterogeneous-research-plot" target="_blank">https://www.jove.com/t/58519/sampling-soils-in-a-heterogeneous-research-plot</a></li>
-
-    <li>Li J, Zhuang Q, et al. Sampling soils in a heterogeneous research plot. <em>J Vis Exp</em>. 2019;(e58519). Disponible en: <a href="https://www.tnstate.edu/faculty/jli/Li_2018_JoVE.pdf" target="_blank">https://www.tnstate.edu/faculty/jli/Li_2018_JoVE.pdf</a></li>
-
-    <li>Brus DJ, et al. Sampling strategies for spatially heterogeneous soils. <em>Geoderma</em>. 2021;404:115288. Disponible en: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001670612100611X" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S001670612100611X</a></li>
-
-    <li>Kansas State University. How many cores should be taken for soil sampling? <em>K-State Agronomy eUpdate</em>. 2023. Article 3558. Disponible en: <a href="https://eupdate.agronomy.ksu.edu/eu_article_prep.php?article_id=3558" target="_blank">https://eupdate.agronomy.ksu.edu/eu_article_prep.php?article_id=3558</a></li>
-
-    <li>Lozano-García DF, et al. Sensor-based fertility mapping using soil NPK sensors in agricultural fields. <em>Agronomy</em>. 2024;14(12):2947. Disponible en: <a href="https://www.mdpi.com/2073-4395/14/12/2947" target="_blank">https://www.mdpi.com/2073-4395/14/12/2947</a></li>
+    <li>
+      Ministerio del Ambiente (MINAM). <em>Guía para el muestreo de suelos</em>. Lima: MINAM; 2013. Disponible en: 
+      <a href="https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf" target="_blank">
+        https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf
+      </a>
+    </li>
+    <li>
+      Li J. Sampling soils in a heterogeneous research plot. <em>Journal of Visualized Experiments</em>. 2018;(143). Disponible en: 
+      <a href="https://www.jove.com/t/58519/sampling-soils-in-a-heterogeneous-research-plot" target="_blank">
+        https://www.jove.com/t/58519/sampling-soils-in-a-heterogeneous-research-plot
+      </a>
+    </li>
+    <li>
+      Li J, Zhuang Q, et al. Sampling soils in a heterogeneous research plot. <em>J Vis Exp</em>. 2019;(e58519). Disponible en: 
+      <a href="https://www.tnstate.edu/faculty/jli/Li_2018_JoVE.pdf" target="_blank">
+        https://www.tnstate.edu/faculty/jli/Li_2018_JoVE.pdf
+      </a>
+    </li>
+    <li>
+      Brus DJ, et al. Sampling strategies for spatially heterogeneous soils. <em>Geoderma</em>. 2021;404:115288. Disponible en: 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S001670612100611X" target="_blank">
+        https://www.sciencedirect.com/science/article/abs/pii/S001670612100611X
+      </a>
+    </li>
+    <li>
+      Kansas State University. How many cores should be taken for soil sampling? <em>K-State Agronomy eUpdate</em>. 2023. Article 3558. Disponible en: 
+      <a href="https://eupdate.agronomy.ksu.edu/eu_article_prep.php?article_id=3558" target="_blank">
+        https://eupdate.agronomy.ksu.edu/eu_article_prep.php?article_id=3558
+      </a>
+    </li>
+    <li>
+      Lozano-García DF, et al. Sensor-based fertility mapping using soil NPK sensors in agricultural fields. <em>Agronomy</em>. 2024;14(12):2947. Disponible en: 
+      <a href="https://www.mdpi.com/2073-4395/14/12/2947" target="_blank">
+        https://www.mdpi.com/2073-4395/14/12/2947
+      </a>
+    </li>
   </ol>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 
 
 
