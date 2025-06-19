@@ -3,15 +3,15 @@
 
 ![Caja Negra](../IMAGENES/final1.png)
 
-## Boceto de la tapa
+## Boceto caja
 
 ![Caja Negra](../IMAGENES/final2.png)
 
-## Boceto del tornillo
+## Boceto de la tapa
 
 ![Caja Negra](../IMAGENES/final3.png)
 
-## El Emsamblaje 
+## Boceto de la abrazadera
 
 ![Caja Negra](../IMAGENES/final4.png)
 
