@@ -2,7 +2,7 @@
 
 ## Plano de la Caja
 
-![Planos](../IMAGENES/PlanoCaja.jpg)
+![Planos](../IMAGENES/final10.jpg)
 
 ## Plano de la Tapa
 
