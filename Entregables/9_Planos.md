@@ -12,7 +12,7 @@
 
 ![Planos](../IMAGENES/final12.jpg)
 
-## Plano del Tornillo
+## Plano de la abrazadera
 
 ![Planos](../IMAGENES/final13.jpg)
 
