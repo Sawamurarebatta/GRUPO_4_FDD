@@ -6,8 +6,8 @@
 
 ## Plano de la Tapa
 
-![Planos](../IMAGENES/PlanoTapa.jpg)
+![Planos](../IMAGENES/final11.jpg)
 
 ## Plano del Tornillo
 
-![Planos](../IMAGENES/PlanoTornillo.jpg)
+![Planos](../IMAGENES/final12.jpg)
