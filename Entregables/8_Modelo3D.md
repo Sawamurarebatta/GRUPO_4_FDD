@@ -23,15 +23,15 @@
 
 ![Caja Negra](../IMAGENES/final6.png)
 
-## Boceto de los componentes
+## Boceto de la caja del panel solar
 
 ![Caja Negra](../IMAGENES/final7.png)
 
-## Boceto de los componentes
+##  Ensamblaje 
 
 ![Caja Negra](../IMAGENES/final8.png)
 
-## Boceto de los componentes
+##  Ensamblaje
 
 ![Caja Negra](../IMAGENES/final9.png)
 
