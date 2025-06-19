@@ -11,3 +11,8 @@
 ## Plano del Tornillo
 
 ![Planos](../IMAGENES/final12.jpg)
+
+## Plano del Tornillo
+
+![Planos](../IMAGENES/final13.jpg)
+
