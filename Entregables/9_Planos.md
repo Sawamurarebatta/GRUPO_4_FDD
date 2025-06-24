@@ -2,11 +2,11 @@
 
 ## Plano de la Caja
 
-![Planos](../IMAGENES/final10.jpg)
+![Planos](../IMAGENES/modificado1.jpg)
 
 ## Plano de la Tapa
 
-![Planos](../IMAGENES/final11.jpg)
+![Planos](../IMAGENES/modificado2.jpg)
 
 ## Plano del Tornillo
 
@@ -15,4 +15,8 @@
 ## Plano de la abrazadera
 
 ![Planos](../IMAGENES/final13.jpg)
+
+## Vista explosionada
+
+![Planos](../IMAGENES/modificado3.jpg)
 
