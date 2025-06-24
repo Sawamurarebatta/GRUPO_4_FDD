@@ -2,7 +2,7 @@
 
 ## ✅ Esquema seleccionado (Esquema 3)
 
-![Esquema 3 - Sistema de monitoreo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/8.png)
+![Esquema 3 - Sistema de monitoreo](https://github.com/Sawamurarebatta/GRUPO_4_FDD/blob/main/IMAGENES/8.jpg)
 
 ### Descripción del funcionamiento – C3
 
