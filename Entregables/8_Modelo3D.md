@@ -1,11 +1,11 @@
 # Modelado del protipo propuesto
 ## Boceto de la caja
 
-![Caja Negra](../IMAGENES/final1.png)
+![Caja Negra](../IMAGENES/scope1.png)
 
 ## Boceto caja
 
-![Caja Negra](../IMAGENES/final2.png)
+![Caja Negra](../IMAGENES/scope2.png)
 
 ## Boceto de la tapa
 
