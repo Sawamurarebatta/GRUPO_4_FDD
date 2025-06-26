@@ -83,7 +83,8 @@ El paquete de mapeo de humedad de suelo de BST combina un dron fijo S2 con un ra
 2. **Khanal, K.**, **Ojha, G.**, **Chataut, S.**, & **Ghimire, U.** (2024). _IoT-Based Real-Time Soil Health Monitoring System for Precision Agriculture._ International Journal of Sensor Networks, **11**, 470–478. [https://www.researchgate.net/publication/382295328_IoT-Based_Real-Time_Soil_Health_Monitoring_System_for_Precision_Agriculture](https://www.researchgate.net/publication/382295328_IoT-Based_Real-Time_Soil_Health_Monitoring_System_for_Precision_Agriculture)
 
 3. **Comegna, A.**, **Hassan, S. B. M.**, & **Coppola, A.** (2024). _Development and Application of an IoT-Based System for Soil Water Status Monitoring in a Soil Profile._ Sensors, **24**(9), 2725. [https://doi.org/10.3390/s24092725](https://doi.org/10.3390/s24092725)
-4. **S. Duangsuwan, C. Teekapakvisit, M.M. Maw** "Development of Soil Moisture Monitoring by using IoT and UAV-SC for Smart Farming Application", Advances in Science, Technology and Engineering Systems Journal, vol. 5, no. 4, pp. 381-387 (2020). DOI: 10.25046/aj050444
+4. **S. Duangsuwan, C. Teekapakvisit, M.M. Maw** "Development of Soil Moisture Monitoring by using IoT and UAV-SC for Smart Farming Application", Advances in Science, Technology and Engineering Systems Journal, vol. 5, no. 4, pp. 381-387 (2020). DOI: [10.25046/aj050444](10.25046/aj050444).
+5. 
 
 6. **Runge, T. H.**, **Hill, J. L.**, & **Zimmerman, J.** (2015). _Soil moisture sensor._ US Patent Application Publication **US2015/0181817 A1**, July 2, 2015. [https://patents.google.com/patent/US20150181817A1/en](https://patents.google.com/patent/US20150181817A1/en)
 
