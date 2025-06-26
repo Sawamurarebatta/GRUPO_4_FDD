@@ -46,6 +46,9 @@ El sensor descrito en la patente US 7,944,220 B2 emplea un bloque poroso de arci
 
 Figura 3: Sensor de contenido de humedad y métodos relacionados
 
+### 2.1.4  US 11,674,944 B2: Sensor inalámbrico de humedad del suelo para enterrar
+El sensor descrito en la patente US11674944B2 está construido alrededor de una carcasa tubular hueca que se inserta parcialmente en el suelo y se cierra con una cubierta extraíble en su extremo superior. Dicha carcasa cuenta con tres aberturas distribuidas a lo largo de su longitud para alojar internamente un sensor ultrasónico superior, un sensor ultrasónico inferior y al menos un sensor de temperatura, todos protegidos por un material acústicamente transparente que garantiza la precisión de las medidas. En su interior, un procesador embebido se encarga de adquirir los datos de estos sensores y de transmitirlos mediante un módulo inalámbrico (por ejemplo, LoRa) hacia una estación remota. La unidad incorpora además una fuente de energía recargable, mientras que la cubierta superior puede integrar opcionalmente un panel solar y una antena, permitiendo recargas in situ y extendiendo el alcance de la comunicación sin necesidad de mantenimiento frecuente .
+
 ## 2.2 PRODUCTO COMERCIAL
  ### 2.2.1 Vegetronix VH400
 
