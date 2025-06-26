@@ -14,6 +14,10 @@ En este trabajo, los investigadores presentan un dispositivo compacto basado en 
 
 Comegna et al. (2024) presentan SHYPROM, un sistema IoT de monitoreo del estado hídrico del suelo diseñado tanto para laboratorio como para campo. El prototipo emplea un microcontrolador ESP32-SIM800L con convertidores ADC de 12 bits que alimentan tres pares de electrodos capacitivos de acero inoxidable y dos transductores de presión MPX5100DP acoplados a tensiómetros porosos. Cada 30 min el dispositivo mide simultáneamente el contenido volumétrico de agua (θ) y el potencial matricial (h) en distintas profundidades, y calcula la curva de conductividad hidráulica K(θ) mediante el método de perfil instantáneo, alcanzando una correlación R² = 0.92 frente a equipos de laboratorio. La plataforma transmite los datos en tiempo real a ThingSpeak vía GSM/Wi-Fi, almacena una copia local en tarjeta SD y dispone de una app Android para visualización y alertas. SHYPROM demostró alta fiabilidad (> 30 días) y un costo por unidad inferior a USD 100[3].
 
+### Artículo 4
+#### "Advanced technologies of soil moisture monitoring in precision agriculture: A Review"
+El prototipo de Adamo et al. (2007) se compone de un contenedor de ensayo de suelo de 150 cm de largo, 100 cm de ancho y 80 cm de altura, diseñado para reproducir en laboratorio las condiciones de campo. En su interior, los transmisores sísmicos y los geófonos están separados horizontalmente 1,30 m, lo que permite recorridos de onda adecuados para medir parámetros compresionales y de cizalla. El plano de transmisión se sitúa a 0,40 m de profundidad, simulando la zona radicular de cultivos comunes. Gracias a estas dimensiones volumétricas, el sistema registra con alta precisión los tiempos de vuelo de las ondas, de los cuales se calcula el contenido volumétrico de humedad con un error inferior al 3 %. Esta configuración robusta es idónea para comparar distintos tipos de suelo y niveles de humedad, y sienta las bases para el desarrollo de sensores portátiles de monitoreo continuo en campo .
+
 # 2. CONTEXTO COMERCIAL
 ## 2.1 PATENTES
  ### 2.1.1 US 20150181817A1 – Sensor de humedad del suelo
