@@ -73,6 +73,9 @@ El TEROS 21 de METER Group es un sensor de succión del suelo que emplea un núc
 
 Figura 6: El sensor de potencial matricial TEROS 21
 
+### Drones para la gestión del agua: Black Swift Technologies lanza un UAS con sensor de humedad del suelo
+El paquete de mapeo de humedad de suelo de BST combina un dron fijo S2 con un radiómetro pasivo de microondas en banda L para mediciones volumétricas de humedad hasta 5 cm de profundidad y cobertura de hasta 600 acres por vuelo. Opera a baja altura (15–30 m AGL) gracias al sistema de gestión de vuelo SwiftCore, e integra un piloto automático avanzado, la interfaz SwiftTab para planificación de misiones y una estación terrestre portátil, generando mapas de humedad en tiempo real con resolución de hasta 15 m, lo que optimiza la eficiencia del riego.
+
 ## Referencias
 
 1. **Foysal, F. M.**, **Mondal, S.**, **Riyad, T.**, **Sikder, S.**, **Hasan, J.**, **Amir, M. A.**, **Mishu, S. S.**, & **Rahman, M. S.** (2025). _Scalable IoT-Based Smart Plant Monitoring and Control System for Sustainable Agriculture._ Journal of Engineering Research and Reports, **27**(1), 16–32. [https://doi.org/10.9734/jerr/2025/v27i11365](https://doi.org/10.9734/jerr/2025/v27i11365)
