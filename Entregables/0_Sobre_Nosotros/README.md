@@ -1,4 +1,9 @@
-# 👋 ¡Hola! Soy Jorge Esteban Roldán Montalván
+# 👨‍🎓 Michael Geser Andres
+🌱 **Estudiante de Ingeniería Ambiental**, interesado en **energías renovables** y la **gestión sostenible de los recursos hídricos**.  
+🔋 Comprometido con el cuidado del medio ambiente y la creación de soluciones sostenibles para el futuro.
+
+---
+# 👋 Jorge Esteban Roldán Montalván
 🎓 **Estudiante de Ingeniería Informática** en la **Universidad Peruana Cayetano Heredia**.  
 💡 **Apasionado por la tecnología, la programación y la resolución de problemas.**  
 🚀 Desde niño, la curiosidad por el mundo digital me ha llevado a explorar y crear soluciones innovadoras.
@@ -7,13 +12,6 @@
 🔹 Enfocado en el **desarrollo de software**, **estructuras de datos** y **algoritmos eficientes**.  
 
 ---
-
-# 👨‍🎓 Michael Geser Andres
-🌱 **Estudiante de Ingeniería Ambiental**, interesado en **energías renovables** y la **gestión sostenible de los recursos hídricos**.  
-🔋 Comprometido con el cuidado del medio ambiente y la creación de soluciones sostenibles para el futuro.
-
----
-
 # 🌟 Patricia Rebatta Jeri
 📍 **Origen:** Ica, una ciudad conocida por su riqueza cultural y hermosos paisajes.  
 🎓 **Estudiante del quinto ciclo de Ingeniería Informática** en la **Universidad Peruana Cayetano Heredia**.  
