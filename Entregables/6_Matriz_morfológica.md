@@ -1,7 +1,7 @@
 ## MATRIZ MORFOLÓGICA Y TABLA DE VALORACIÓN
 ### Matriz morfológico
  
-![Caja Negra](../IMAGENES/canva6.jpg)
+![Caja Negra](../IMAGENES/Esquema.jpg)
 
 ### Matriz morfológico (software)
  
