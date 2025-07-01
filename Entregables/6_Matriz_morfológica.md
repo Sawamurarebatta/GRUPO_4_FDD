@@ -1,5 +1,5 @@
 ## MATRIZ MORFOLÓGICA Y TABLA DE VALORACIÓN
-### Matriz morfológico
+### Matriz morfológica
  
 ![Caja Negra](../IMAGENES/Esquema.jpg)
 
